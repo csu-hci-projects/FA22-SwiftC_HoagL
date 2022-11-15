@@ -9,6 +9,8 @@ S: Move Back
 
 D: Move Right
 
+SpaceBar: Jump
+
 0: Stops Ball Movement
 
 Mouse Click on Button at Start, Starts Game
