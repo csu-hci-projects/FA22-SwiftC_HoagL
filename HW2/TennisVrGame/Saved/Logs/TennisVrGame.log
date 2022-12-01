@@ -831,3 +831,197 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.01-22.01.36:237][956]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
 [2022.12.01-22.01.36:237][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
 [2022.12.01-22.01.36:280][957]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2022.12.01-22.02.19:462][649]Cmd: MAP LOAD FILE="../../../../../../Users/csswi/Documents/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/FirstLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.01-22.02.19:462][649]LightingResults: New page: Lighting Build
+[2022.12.01-22.02.19:462][649]LoadErrors: New page: Loading map: FirstLevel.umap
+[2022.12.01-22.02.19:463][649]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-22.02.19:463][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-22.02.19:464][649]MapCheck: New page: Map Check
+[2022.12.01-22.02.19:464][649]LightingResults: New page: Lighting Build
+[2022.12.01-22.02.19:471][649]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.01-22.02.19:472][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.12.01-22.02.19:524][649]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstLevel'.
+[2022.12.01-22.02.19:524][649]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.01-22.02.19:524][649]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.01-22.02.19:524][649]LogAIModule: Creating AISystem for world FirstLevel
+[2022.12.01-22.02.19:571][649]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.01-22.02.19:580][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.12.01-22.02.19:586][649]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.01-22.02.19:586][649]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.101ms to complete.
+[2022.12.01-22.02.19:587][649]LogFileHelpers: Loading map 'FirstLevel' took 0.124
+[2022.12.01-22.02.34:930][260]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.01-22.02.34:939][260]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.01-22.02.43:380][249]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TennisGearBP/BPTennisRacket.BPTennisRacket
+[2022.12.01-22.02.43:382][249]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.01-22.02.45:083][249]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.01-22.02.46:805][407]LogViewport: Scene viewport resized to 1687x981, mode Windowed.
+[2022.12.01-22.03.56:954][566]BlueprintLog: New page: Compile BPTennisRacket
+[2022.12.01-22.03.56:994][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.12.01-22.03.57:470][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TennisGearBP/BPTennisRacket" FILE="../../../../../../Users/csswi/Documents/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Content/TennisGearBP/BPTennisRacket.uasset" SILENT=true
+[2022.12.01-22.03.57:478][606]LogPackageLocalizationCache: Processed 29 localized package path(s) for 1 prioritized culture(s) in 0.006202 seconds
+[2022.12.01-22.03.57:482][606]LogSavePackage: Moving output files for package: /Game/TennisGearBP/BPTennisRacket
+[2022.12.01-22.03.57:483][606]LogSavePackage: Moving '../../../../../../Users/csswi/Documents/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Saved/BPTennisRacketB52EDF9343E720F28F8D73A4160B8FDF.tmp' to '../../../../../../Users/csswi/Documents/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Content/TennisGearBP/BPTennisRacket.uasset'
+[2022.12.01-22.03.57:500][606]AssetCheck: New page: Asset Save: BPTennisRacket
+[2022.12.01-22.03.57:500][606]LogContentValidation: Display: Validating Blueprint /Game/TennisGearBP/BPTennisRacket.BPTennisRacket
+[2022.12.01-22.03.58:244][679]LogSlate: Window 'BPTennisRacket' being destroyed
+[2022.12.01-22.03.58:256][679]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-22.03.58:256][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-22.04.07:490][752]Cmd: MAP LOAD FILE="../../../../../../Users/csswi/Documents/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Content/VRTemplate/Maps/VRTemplateMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.01-22.04.07:490][752]LightingResults: New page: Lighting Build
+[2022.12.01-22.04.07:490][752]LoadErrors: New page: Loading map: VRTemplateMap.umap
+[2022.12.01-22.04.07:491][752]LogWorld: UWorld::CleanupWorld for FirstLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-22.04.07:491][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-22.04.07:491][752]MapCheck: New page: Map Check
+[2022.12.01-22.04.07:491][752]LightingResults: New page: Lighting Build
+[2022.12.01-22.04.07:511][752]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.01-22.04.07:515][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.12.01-22.04.07:521][752]LogAudio: Display: Audio Device (ID: 1) registered with world 'VRTemplateMap'.
+[2022.12.01-22.04.07:521][752]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.01-22.04.07:521][752]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.01-22.04.07:521][752]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.12.01-22.04.07:548][752]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.01-22.04.07:570][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.12.01-22.04.07:577][752]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.01-22.04.07:577][752]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
+[2022.12.01-22.04.07:577][752]LogFileHelpers: Loading map 'VRTemplateMap' took 0.088
+[2022.12.01-22.04.40:328][602]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.12.01-22.04.40:334][602]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.01-22.04.40:335][602]PIE: New page: PIE session: VRTemplateMap (Dec 1, 2022, 8:04:40 AM)
+[2022.12.01-22.04.40:335][602]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.12.01-22.04.40:340][602]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005255s)
+[2022.12.01-22.04.40:340][602]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.005328s)
+[2022.12.01-22.04.40:340][602]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.01-22.04.40:341][602]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.01-22.04.40:341][602]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.12.01-22.04.40:341][602]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2022.12.01-22.04.40:361][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.12.01-22.04.40:364][602]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.12.01-22.04.40:364][602]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.01-22.04.40:364][602]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.01-22.04.40:364][602]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.01-22.04.40:364][602]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.01-22.04.40:364][602]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.01-22.04.40:364][602]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.01-22.04.40:364][602]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.01-22.04.40:364][602]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.01-22.04.40:364][602]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.01-22.04.40:364][602]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.01-22.04.40:364][602]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.01-22.04.40:366][602]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.01-22.04.40:392][602]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX Cloud Flight S Game)
+[2022.12.01-22.04.40:392][602]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.01-22.04.40:392][602]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.01-22.04.40:392][602]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.01-22.04.40:393][602]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.12.01-22.04.40:393][602]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.12.01-22.04.40:395][602]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.12.01-22.04.40:395][602]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.12.01-22.04.40:395][602]LogInit: FAudioDevice initialized.
+[2022.12.01-22.04.40:395][602]LogAudio: Display: Audio Device (ID: 3) registered with world 'VRTemplateMap'.
+[2022.12.01-22.04.40:413][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-22.04.40:545][602]LogLoad: Game class is 'VRGameMode_C'
+[2022.12.01-22.04.40:548][602]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2022.12.01-15.04.40
+[2022.12.01-22.04.40:548][602]LogWorld: Bringing up level for play took: 0.003714
+[2022.12.01-22.04.40:550][602]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2022.12.01-22.04.40:551][602]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.01-22.04.40:552][602]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.12.01-22.04.40:553][602]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.12.01-22.04.40:553][602]Cmd: vr.PixelDensity 1.0
+[2022.12.01-22.04.40:553][602]vr.PixelDensity = "1"
+[2022.12.01-22.04.40:556][602]PIE: Server logged in
+[2022.12.01-22.04.40:557][602]PIE: Play in editor total start time 0.223 seconds.
+[2022.12.01-22.04.40:610][602]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.12.01-22.04.40:659][602]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.01-22.04.40:683][604]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.12.01-22.05.35:155][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-22.05.35:155][910]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.12.01-22.05.35:183][910]LogSlate: Window 'TennisVrGame Preview [NetMode: Standalone]  (64-bit/SM5) OpenXR Oculus (1.78.0)' being destroyed
+[2022.12.01-22.05.35:188][910]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-22.05.35:188][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-22.05.35:201][910]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.01-22.05.35:205][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-22.05.35:225][910]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.01-22.05.35:225][910]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.12.01-22.05.35:227][910]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.12.01-22.05.35:231][910]LogSlate: Slate User Unregistered.  User Index 8
+[2022.12.01-22.05.35:231][910]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.12.01-22.05.35:233][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.12.01-22.05.35:284][911]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.12.01-22.05.45:085][ 72]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.01-22.05.51:844][873]Cmd: DELETE
+[2022.12.01-22.05.51:844][873]Cmd: ACTOR DELETE
+[2022.12.01-22.05.51:848][873]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.01-22.05.51:868][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.12.01-22.05.51:870][873]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2022.12.01-22.05.51:876][874]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.12.01-22.05.55:696][330]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.12.01-22.05.55:703][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.01-22.05.55:703][330]PIE: New page: PIE session: VRTemplateMap (Dec 1, 2022, 8:05:55 AM)
+[2022.12.01-22.05.55:703][330]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.12.01-22.05.55:709][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005084s)
+[2022.12.01-22.05.55:709][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.005150s)
+[2022.12.01-22.05.55:709][330]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.01-22.05.55:709][330]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.01-22.05.55:709][330]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.12.01-22.05.55:709][330]LogPlayLevel: PIE: World Init took: (0.000569s)
+[2022.12.01-22.05.55:729][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.12.01-22.05.55:730][330]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.12.01-22.05.55:730][330]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.01-22.05.55:730][330]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.01-22.05.55:730][330]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.01-22.05.55:730][330]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.01-22.05.55:730][330]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.01-22.05.55:730][330]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.01-22.05.55:730][330]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.01-22.05.55:730][330]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.01-22.05.55:730][330]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.01-22.05.55:730][330]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.01-22.05.55:731][330]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.01-22.05.55:732][330]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.01-22.05.55:757][330]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX Cloud Flight S Game)
+[2022.12.01-22.05.55:758][330]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.01-22.05.55:758][330]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.01-22.05.55:758][330]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.01-22.05.55:758][330]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.12.01-22.05.55:758][330]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.12.01-22.05.55:760][330]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.12.01-22.05.55:760][330]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.12.01-22.05.55:760][330]LogInit: FAudioDevice initialized.
+[2022.12.01-22.05.55:760][330]LogAudio: Display: Audio Device (ID: 4) registered with world 'VRTemplateMap'.
+[2022.12.01-22.05.55:777][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-22.05.55:912][330]LogLoad: Game class is 'VRGameMode_C'
+[2022.12.01-22.05.55:914][330]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2022.12.01-15.05.55
+[2022.12.01-22.05.55:915][330]LogWorld: Bringing up level for play took: 0.002974
+[2022.12.01-22.05.55:917][330]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2022.12.01-22.05.55:917][330]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.01-22.05.55:918][330]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.12.01-22.05.55:919][330]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.12.01-22.05.55:919][330]Cmd: vr.PixelDensity 1.0
+[2022.12.01-22.05.55:919][330]vr.PixelDensity = "1"
+[2022.12.01-22.05.55:921][330]PIE: Server logged in
+[2022.12.01-22.05.55:923][330]PIE: Play in editor total start time 0.22 seconds.
+[2022.12.01-22.05.56:042][330]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.12.01-22.05.56:098][330]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.01-22.05.56:109][331]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.12.01-22.06.27:865][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-22.06.27:865][444]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.12.01-22.06.27:889][444]LogSlate: Window 'TennisVrGame Preview [NetMode: Standalone]  (64-bit/SM5) OpenXR Oculus (1.78.0)' being destroyed
+[2022.12.01-22.06.27:895][444]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-22.06.27:895][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-22.06.27:906][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.01-22.06.27:910][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-22.06.27:928][444]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.01-22.06.27:929][444]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.01-22.06.27:929][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.12.01-22.06.27:930][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.12.01-22.06.27:934][444]LogSlate: Slate User Unregistered.  User Index 8
+[2022.12.01-22.06.27:934][444]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.12.01-22.06.27:936][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.12.01-22.06.27:983][445]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.12.01-22.07.14:438][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.12.01-22.07.14:492][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.12.01-22.07.14:507][ 88]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2022.12.01-22.07.14:507][ 88]LogSavePackage: Moving '../../../../../../Users/csswi/Documents/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Saved/VRTemplateMapFD27D4A14D626FA2891CBDA8155B8AF6.tmp' to '../../../../../../Users/csswi/Documents/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.12.01-22.07.14:516][ 88]LogFileHelpers: Saving map 'VRTemplateMap' took 0.043
+[2022.12.01-22.07.14:547][ 88]AssetCheck: New page: Asset Save: VRTemplateMap
+[2022.12.01-22.07.14:547][ 88]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
