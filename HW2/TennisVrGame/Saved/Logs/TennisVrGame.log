@@ -3156,3 +3156,39 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.01-03.51.53:484][565]AssetCheck: New page: Asset Save: BPTennisRacket
 [2022.12.01-03.51.53:484][565]LogContentValidation: Display: Validating Blueprint /Game/TennisGear/BPTennisRacket.BPTennisRacket
 [2022.12.01-03.57.37:146][853]LogDerivedDataCache: C:/Users/csswi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.170 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.01-04.57.37:157][557]LogDerivedDataCache: C:/Users/csswi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.155 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.01-05.57.37:139][242]LogDerivedDataCache: C:/Users/csswi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.141 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.01-06.57.37:362][932]LogDerivedDataCache: C:/Users/csswi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.163 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.01-07.57.37:065][621]LogDerivedDataCache: C:/Users/csswi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.135 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.01-08.57.37:312][312]LogDerivedDataCache: C:/Users/csswi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.132 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.01-09.57.37:298][  3]LogDerivedDataCache: C:/Users/csswi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.166 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.01-10.57.37:171][693]LogDerivedDataCache: C:/Users/csswi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.166 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.01-11.57.37:106][380]LogDerivedDataCache: C:/Users/csswi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.166 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.01-12.57.37:188][ 67]LogDerivedDataCache: C:/Users/csswi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.145 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.01-13.57.37:282][755]LogDerivedDataCache: C:/Users/csswi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.137 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.01-14.57.37:338][445]LogDerivedDataCache: C:/Users/csswi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.135 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.01-15.47.24:502][324]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.12.01-15.47.24:502][324]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.12.01-15.47.53:570][672]LogMetaData: Removing '/Game/TennisGearBP/BPTennisRacket.BPTennisRacket_C' ref from Metadata '/Game/TennisGear/BPTennisRacket.PackageMetaData'
+[2022.12.01-15.47.53:570][672]LogMetaData: Removing '/Game/TennisGearBP/BPTennisRacket.SKEL_BPTennisRacket_C' ref from Metadata '/Game/TennisGear/BPTennisRacket.PackageMetaData'
+[2022.12.01-15.47.53:570][672]LogMetaData: Removing '/Game/TennisGearBP/BPTennisRacket.SKEL_BPTennisRacket_C:ReceiveBeginPlay' ref from Metadata '/Game/TennisGear/BPTennisRacket.PackageMetaData'
+[2022.12.01-15.47.53:570][672]LogMetaData: Removing '/Game/TennisGearBP/BPTennisRacket.SKEL_BPTennisRacket_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/TennisGear/BPTennisRacket.PackageMetaData'
+[2022.12.01-15.47.53:570][672]LogMetaData: Removing '/Game/TennisGearBP/BPTennisRacket.SKEL_BPTennisRacket_C:ReceiveTick' ref from Metadata '/Game/TennisGear/BPTennisRacket.PackageMetaData'
+[2022.12.01-15.47.53:571][672]LogMetaData: Removing '/Game/TennisGearBP/BPTennisRacket.SKEL_BPTennisRacket_C:UserConstructionScript' ref from Metadata '/Game/TennisGear/BPTennisRacket.PackageMetaData'
+[2022.12.01-15.47.53:598][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TennisGearBP/BPTennisRacket" FILE="../../../../../../Users/csswi/Documents/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Content/TennisGearBP/BPTennisRacket.uasset" SILENT=true
+[2022.12.01-15.47.53:603][672]LogSavePackage: Moving output files for package: /Game/TennisGearBP/BPTennisRacket
+[2022.12.01-15.47.53:604][672]LogSavePackage: Moving '../../../../../../Users/csswi/Documents/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Saved/BPTennisRacketD1C786C6425219BD64C4B6A518C251DF.tmp' to '../../../../../../Users/csswi/Documents/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Content/TennisGearBP/BPTennisRacket.uasset'
+[2022.12.01-15.47.53:675][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.12.01-15.47.53:698][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.12.01-15.47.53:718][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.12.01-15.47.53:744][672]AssetCheck: New page: Asset Save: BPTennisRacket
+[2022.12.01-15.47.53:744][672]LogContentValidation: Display: Validating Blueprint /Game/TennisGearBP/BPTennisRacket.BPTennisRacket
+[2022.12.01-15.47.57:775][145]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TennisGearBP/BPTennisRacket.BPTennisRacket
+[2022.12.01-15.47.57:776][145]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.01-15.48.00:933][379]LogViewport: Scene viewport resized to 1687x981, mode Windowed.
+[2022.12.01-15.48.02:339][507]BlueprintLog: New page: Compile BPTennisRacket
+[2022.12.01-15.48.02:387][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.12.01-15.48.03:748][654]LogSlate: Window 'BPTennisRacket' being destroyed
+[2022.12.01-15.48.03:757][654]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-15.48.03:757][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-15.48.13:863][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
