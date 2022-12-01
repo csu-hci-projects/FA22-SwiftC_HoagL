@@ -3192,3 +3192,251 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.01-15.48.03:757][654]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
 [2022.12.01-15.48.03:757][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2022.12.01-15.48.13:863][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.12.01-15.49.30:737][816]LogSlate: Window 'Open Level' being destroyed
+[2022.12.01-15.49.45:483][741]LogSlate: Window 'Message' being destroyed
+[2022.12.01-15.49.45:493][741]Message dialog closed, result: No, title: Message, text: The following assets are referenced by one or more Class Default Objects: 
+
+VRTemplateMap (project settings soft reference)
+
+Continuing with the rename may require changes to fix references in code or project settings. Assets could otherwise be missing in cooked/packaged builds. Do you wish to continue?
+[2022.12.01-15.49.46:868][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.12.01-15.49.46:870][894]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.12.01-15.49.46:870][894]Cmd: MAP LOAD FILE="../../../../../../Users/csswi/Documents/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Content/VRTemplate/Maps/VRTemplateMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.01-15.49.46:870][894]LightingResults: New page: Lighting Build
+[2022.12.01-15.49.46:870][894]LoadErrors: New page: Loading map: VRTemplateMap.umap
+[2022.12.01-15.49.46:918][894]LogWorld: UWorld::CleanupWorld for FirstLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-15.49.46:918][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-15.49.46:919][894]MapCheck: New page: Map Check
+[2022.12.01-15.49.46:919][894]LightingResults: New page: Lighting Build
+[2022.12.01-15.49.46:942][894]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.01-15.49.46:944][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.12.01-15.49.46:946][894]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-15.49.46:946][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-15.49.46:970][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.12.01-15.49.46:991][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.12.01-15.49.46:998][894]LogAudio: Display: Audio Device (ID: 1) registered with world 'VRTemplateMap'.
+[2022.12.01-15.49.46:998][894]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.01-15.49.46:998][894]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.01-15.49.46:998][894]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.12.01-15.49.47:032][894]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.01-15.49.47:054][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.12.01-15.49.47:061][894]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.01-15.49.47:061][894]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.115ms to complete.
+[2022.12.01-15.49.47:061][894]LogFileHelpers: Loading map 'VRTemplateMap' took 0.191
+[2022.12.01-15.49.56:276][922]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.01-15.50.28:807][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.12.01-15.50.30:960][687]LogSlate: Window 'Save Content' being destroyed
+[2022.12.01-15.50.31:021][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.12.01-15.50.31:036][687]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2022.12.01-15.50.31:037][687]LogSavePackage: Moving '../../../../../../Users/csswi/Documents/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Saved/VRTemplateMap8702119D426BD7FFCCF67A944E629981.tmp' to '../../../../../../Users/csswi/Documents/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.12.01-15.50.31:045][687]LogFileHelpers: Saving map 'VRTemplateMap' took 0.044
+[2022.12.01-15.50.31:051][687]Cmd: MAP LOAD FILE="../../../../../../Users/csswi/Documents/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/FirstLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.01-15.50.31:051][687]LightingResults: New page: Lighting Build
+[2022.12.01-15.50.31:051][687]LoadErrors: New page: Loading map: FirstLevel.umap
+[2022.12.01-15.50.31:053][687]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-15.50.31:053][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-15.50.31:053][687]MapCheck: New page: Map Check
+[2022.12.01-15.50.31:053][687]LightingResults: New page: Lighting Build
+[2022.12.01-15.50.31:073][687]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.01-15.50.31:075][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.12.01-15.50.31:119][687]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstLevel'.
+[2022.12.01-15.50.31:119][687]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.01-15.50.31:119][687]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.01-15.50.31:119][687]LogAIModule: Creating AISystem for world FirstLevel
+[2022.12.01-15.50.31:194][687]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.01-15.50.31:217][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.12.01-15.50.31:223][687]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.01-15.50.31:223][687]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.109ms to complete.
+[2022.12.01-15.50.31:223][687]LogFileHelpers: Loading map 'FirstLevel' took 0.172
+[2022.12.01-15.50.31:224][687]LogSlate: Window 'Open Level' being destroyed
+[2022.12.01-15.50.31:236][687]AssetCheck: New page: Asset Save: VRTemplateMap
+[2022.12.01-15.50.31:236][687]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.12.01-15.50.53:480][233]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.12.01-15.50.53:480][233]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.12.01-15.50.53:481][233]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Levels/FirstLevel.FirstLevel:PersistentLevel.PlayerStart_0
+[2022.12.01-15.50.53:482][233]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.01-15.50.53:484][233]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Levels/FirstLevel.FirstLevel:PersistentLevel.PlayerStart_0
+[2022.12.01-15.50.53:484][233]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.01-15.50.58:252][726]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.01-15.50.59:915][923]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.01-15.51.01:437][103]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.01-15.51.02:907][277]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.01-15.51.18:982][136]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.01-15.51.19:910][244]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.01-15.51.19:915][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.01-15.51.19:915][244]PIE: New page: PIE session: FirstLevel (Dec 1, 2022, 1:51:19 AM)
+[2022.12.01-15.51.19:948][244]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FirstLevel
+[2022.12.01-15.51.19:949][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001669s)
+[2022.12.01-15.51.19:949][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FirstLevel.FirstLevel to /Game/Levels/UEDPIE_0_FirstLevel.FirstLevel (0.001759s)
+[2022.12.01-15.51.19:949][244]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.01-15.51.19:949][244]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.01-15.51.19:950][244]LogAIModule: Creating AISystem for world FirstLevel
+[2022.12.01-15.51.19:950][244]LogPlayLevel: PIE: World Init took: (0.000717s)
+[2022.12.01-15.51.19:973][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.12.01-15.51.19:977][244]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.12.01-15.51.19:977][244]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.01-15.51.19:977][244]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.01-15.51.19:977][244]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.01-15.51.19:977][244]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.01-15.51.19:977][244]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.01-15.51.19:977][244]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.01-15.51.19:977][244]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.01-15.51.19:977][244]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.01-15.51.19:978][244]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.01-15.51.19:978][244]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.01-15.51.19:978][244]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.01-15.51.19:980][244]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.01-15.51.20:006][244]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX Cloud Flight S Game)
+[2022.12.01-15.51.20:007][244]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.01-15.51.20:007][244]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.01-15.51.20:007][244]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.01-15.51.20:008][244]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.12.01-15.51.20:008][244]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.12.01-15.51.20:010][244]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.12.01-15.51.20:010][244]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.12.01-15.51.20:010][244]LogInit: FAudioDevice initialized.
+[2022.12.01-15.51.20:010][244]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstLevel'.
+[2022.12.01-15.51.20:024][244]LogLoad: Game class is 'VRGameMode_C'
+[2022.12.01-15.51.20:024][244]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2022.12.01-08.51.20
+[2022.12.01-15.51.20:024][244]LogWorld: Bringing up level for play took: 0.000512
+[2022.12.01-15.51.20:026][244]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2022.12.01-15.51.20:027][244]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.01-15.51.20:028][244]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.12.01-15.51.20:028][244]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.12.01-15.51.20:028][244]PIE: Server logged in
+[2022.12.01-15.51.20:029][244]PIE: Play in editor total start time 0.114 seconds.
+[2022.12.01-15.51.20:041][244]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.01-15.51.23:847][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-15.51.23:847][685]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_FirstLevel
+[2022.12.01-15.51.23:848][685]LogWorld: UWorld::CleanupWorld for FirstLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-15.51.23:848][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-15.51.23:860][685]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.01-15.51.23:865][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-15.51.23:887][685]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.01-15.51.23:888][685]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.01-15.51.23:888][685]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.12.01-15.51.23:890][685]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.12.01-15.51.23:893][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-15.51.23:894][685]LogSlate: Slate User Unregistered.  User Index 8
+[2022.12.01-15.51.23:894][685]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.12.01-15.51.23:895][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.12.01-15.51.23:917][686]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.12.01-15.51.33:008][700]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.01-15.51.36:817][149]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.01-15.51.39:954][490]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.01-15.51.39:958][490]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.01-15.51.39:958][490]PIE: New page: PIE session: FirstLevel (Dec 1, 2022, 1:51:39 AM)
+[2022.12.01-15.51.39:958][490]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FirstLevel
+[2022.12.01-15.51.39:960][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001619s)
+[2022.12.01-15.51.39:960][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FirstLevel.FirstLevel to /Game/Levels/UEDPIE_0_FirstLevel.FirstLevel (0.001683s)
+[2022.12.01-15.51.39:960][490]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.01-15.51.39:960][490]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.01-15.51.39:960][490]LogAIModule: Creating AISystem for world FirstLevel
+[2022.12.01-15.51.39:960][490]LogPlayLevel: PIE: World Init took: (0.000712s)
+[2022.12.01-15.51.39:986][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.12.01-15.51.39:988][490]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.12.01-15.51.39:988][490]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.01-15.51.39:988][490]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.01-15.51.39:988][490]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.01-15.51.39:988][490]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.01-15.51.39:988][490]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.01-15.51.39:988][490]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.01-15.51.39:988][490]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.01-15.51.39:988][490]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.01-15.51.39:988][490]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.01-15.51.39:988][490]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.01-15.51.39:988][490]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.01-15.51.39:990][490]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.01-15.51.40:015][490]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX Cloud Flight S Game)
+[2022.12.01-15.51.40:015][490]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.01-15.51.40:015][490]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.01-15.51.40:015][490]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.01-15.51.40:016][490]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.12.01-15.51.40:016][490]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.12.01-15.51.40:017][490]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.12.01-15.51.40:017][490]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.12.01-15.51.40:017][490]LogInit: FAudioDevice initialized.
+[2022.12.01-15.51.40:017][490]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstLevel'.
+[2022.12.01-15.51.40:026][490]LogLoad: Game class is 'VRGameMode_C'
+[2022.12.01-15.51.40:027][490]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2022.12.01-08.51.40
+[2022.12.01-15.51.40:027][490]LogWorld: Bringing up level for play took: 0.000572
+[2022.12.01-15.51.40:029][490]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2022.12.01-15.51.40:029][490]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.01-15.51.40:030][490]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.12.01-15.51.40:030][490]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.12.01-15.51.40:030][490]PIE: Server logged in
+[2022.12.01-15.51.40:031][490]PIE: Play in editor total start time 0.073 seconds.
+[2022.12.01-15.51.40:042][490]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.01-15.51.42:777][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-15.51.42:777][812]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_FirstLevel
+[2022.12.01-15.51.42:777][812]LogWorld: UWorld::CleanupWorld for FirstLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-15.51.42:777][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-15.51.42:786][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.01-15.51.42:790][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-15.51.42:811][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-15.51.42:812][812]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.01-15.51.42:812][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.12.01-15.51.42:813][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.12.01-15.51.42:819][812]LogSlate: Slate User Unregistered.  User Index 8
+[2022.12.01-15.51.42:819][812]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.12.01-15.51.42:821][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.12.01-15.51.42:844][813]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.12.01-15.51.49:244][530]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.01-15.51.52:773][925]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.01-15.51.52:777][925]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.01-15.51.52:777][925]PIE: New page: PIE session: FirstLevel (Dec 1, 2022, 1:51:52 AM)
+[2022.12.01-15.51.52:797][925]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FirstLevel
+[2022.12.01-15.51.52:799][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001515s)
+[2022.12.01-15.51.52:799][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FirstLevel.FirstLevel to /Game/Levels/UEDPIE_0_FirstLevel.FirstLevel (0.001593s)
+[2022.12.01-15.51.52:799][925]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.01-15.51.52:799][925]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.01-15.51.52:799][925]LogAIModule: Creating AISystem for world FirstLevel
+[2022.12.01-15.51.52:799][925]LogPlayLevel: PIE: World Init took: (0.000627s)
+[2022.12.01-15.51.52:821][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.12.01-15.51.52:823][925]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.12.01-15.51.52:823][925]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.01-15.51.52:823][925]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.01-15.51.52:823][925]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.01-15.51.52:823][925]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.01-15.51.52:823][925]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.01-15.51.52:823][925]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.01-15.51.52:823][925]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.01-15.51.52:823][925]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.01-15.51.52:824][925]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.01-15.51.52:824][925]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.01-15.51.52:824][925]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.01-15.51.52:825][925]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.01-15.51.52:856][925]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX Cloud Flight S Game)
+[2022.12.01-15.51.52:856][925]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.01-15.51.52:856][925]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.01-15.51.52:856][925]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.01-15.51.52:857][925]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.12.01-15.51.52:857][925]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.12.01-15.51.52:859][925]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.12.01-15.51.52:859][925]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.12.01-15.51.52:859][925]LogInit: FAudioDevice initialized.
+[2022.12.01-15.51.52:859][925]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstLevel'.
+[2022.12.01-15.51.52:871][925]LogLoad: Game class is 'VRGameMode_C'
+[2022.12.01-15.51.52:872][925]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2022.12.01-08.51.52
+[2022.12.01-15.51.52:872][925]LogWorld: Bringing up level for play took: 0.000525
+[2022.12.01-15.51.52:873][925]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2022.12.01-15.51.52:874][925]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.01-15.51.52:875][925]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.12.01-15.51.52:875][925]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.12.01-15.51.52:875][925]PIE: Server logged in
+[2022.12.01-15.51.52:876][925]PIE: Play in editor total start time 0.099 seconds.
+[2022.12.01-15.51.52:887][925]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.01-15.51.55:077][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-15.51.55:077][181]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_FirstLevel
+[2022.12.01-15.51.55:078][181]LogWorld: UWorld::CleanupWorld for FirstLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-15.51.55:078][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-15.51.55:089][181]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.01-15.51.55:093][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-15.51.55:115][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.01-15.51.55:116][181]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.01-15.51.55:116][181]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.12.01-15.51.55:117][181]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.12.01-15.51.55:121][181]LogSlate: Slate User Unregistered.  User Index 8
+[2022.12.01-15.51.55:121][181]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.12.01-15.51.55:122][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.12.01-15.51.55:162][183]LogPlayLevel: Display: Destroying online subsystem :Context_23
