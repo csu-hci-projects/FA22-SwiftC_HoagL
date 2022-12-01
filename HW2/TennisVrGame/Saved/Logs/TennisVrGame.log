@@ -3440,3 +3440,103 @@ Continuing with the rename may require changes to fix references in code or proj
 [2022.12.01-15.51.55:121][181]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
 [2022.12.01-15.51.55:122][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
 [2022.12.01-15.51.55:162][183]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.12.01-15.53.15:449][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.12.01-15.53.15:455][ 61]LogSavePackage: Moving output files for package: /Game/Levels/FirstLevel
+[2022.12.01-15.53.15:456][ 61]LogSavePackage: Moving '../../../../../../Users/csswi/Documents/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Saved/FirstLevel3E03748C43CE78BC5698A7948ACE00C0.tmp' to '../../../../../../Users/csswi/Documents/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/FirstLevel.umap'
+[2022.12.01-15.53.15:463][ 61]LogFileHelpers: No new changes to save!
+[2022.12.01-15.53.15:487][ 61]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.01-15.53.15:487][ 61]LogContentValidation: Display: Validating ObjectRedirector /Game/Levels/FirstLevel.Level1
+[2022.12.01-15.53.15:488][ 61]LogContentValidation: Display: Validating World /Game/Levels/FirstLevel.FirstLevel
+[2022.12.01-15.53.31:989][967]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.12.01-15.53.32:002][967]LogContentBrowser: Creating deferred item: NewFolder
+[2022.12.01-15.53.32:011][968]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.12.01-15.53.35:741][414]LogContentBrowser: Attempting asset rename: NewFolder -> Prefabs
+[2022.12.01-15.53.35:742][414]LogContentBrowser: End creating deferred item NewFolder
+[2022.12.01-15.54.25:049][ 48]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.01-15.54.28:865][ 48]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.12.01-15.54.28:874][ 48]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.12.01-15.54.28:879][ 48]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.12.01-15.54.28:890][ 49]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.12.01-15.54.35:297][813]LogContentBrowser: Attempting asset rename: NewBlueprint -> BPTennisCourt
+[2022.12.01-15.54.35:301][813]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.12.01-15.54.36:891][  2]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TennisGearBP/BPTennisCourt.BPTennisCourt
+[2022.12.01-15.54.36:892][  2]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.01-15.54.37:260][  2]LogViewport: Scene viewport resized to 1687x981, mode Windowed.
+[2022.12.01-15.54.46:976][  1]Cmd: TRANSACTION UNDO
+[2022.12.01-15.54.46:976][  1]LogEditorTransaction: Undo Add Component
+[2022.12.01-15.55.15:295][921]BlueprintLog: New page: Compile BPTennisCourt
+[2022.12.01-15.55.15:341][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.12.01-15.55.15:890][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TennisGearBP/BPTennisCourt" FILE="../../../../../../Users/csswi/Documents/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Content/TennisGearBP/BPTennisCourt.uasset" SILENT=true
+[2022.12.01-15.55.15:893][962]LogSavePackage: Moving output files for package: /Game/TennisGearBP/BPTennisCourt
+[2022.12.01-15.55.15:893][962]LogSavePackage: Moving '../../../../../../Users/csswi/Documents/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Saved/BPTennisCourt010291EB485500656FCB689DDC86A84E.tmp' to '../../../../../../Users/csswi/Documents/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Content/TennisGearBP/BPTennisCourt.uasset'
+[2022.12.01-15.55.15:907][962]AssetCheck: New page: Asset Save: BPTennisCourt
+[2022.12.01-15.55.15:907][962]LogContentValidation: Display: Validating Blueprint /Game/TennisGearBP/BPTennisCourt.BPTennisCourt
+[2022.12.01-15.55.16:809][ 45]LogSlate: Window 'BPTennisCourt' being destroyed
+[2022.12.01-15.55.16:819][ 45]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-15.55.16:819][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-15.55.19:974][366]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TennisGearBP/BPTennisCourt.BPTennisCourt_C
+[2022.12.01-15.55.19:974][366]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TennisGearBP/BPTennisCourt.BPTennisCourt_C
+[2022.12.01-15.55.19:975][366]LogActorFactory: Actor Factory spawned Blueprint /Game/TennisGearBP/BPTennisCourt.BPTennisCourt as actor: BPTennisCourt_C /Game/Levels/FirstLevel.FirstLevel:PersistentLevel.BPTennisCourt_C_0
+[2022.12.01-15.55.19:976][366]LogActorFactory: Actor Factory spawned Blueprint /Game/TennisGearBP/BPTennisCourt.BPTennisCourt as actor: BPTennisCourt_C /Game/Levels/FirstLevel.FirstLevel:PersistentLevel.BPTennisCourt_C_0
+[2022.12.01-15.55.20:837][432]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TennisGearBP/BPTennisCourt.BPTennisCourt_C
+[2022.12.01-15.55.20:837][432]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TennisGearBP/BPTennisCourt.BPTennisCourt_C
+[2022.12.01-15.55.20:838][432]LogActorFactory: Actor Factory spawned Blueprint /Game/TennisGearBP/BPTennisCourt.BPTennisCourt as actor: BPTennisCourt_C /Game/Levels/FirstLevel.FirstLevel:PersistentLevel.BPTennisCourt_C_1
+[2022.12.01-15.55.20:839][432]LogActorFactory: Actor Factory spawned Blueprint /Game/TennisGearBP/BPTennisCourt.BPTennisCourt as actor: BPTennisCourt_C /Game/Levels/FirstLevel.FirstLevel:PersistentLevel.BPTennisCourt_C_1
+[2022.12.01-15.55.26:472][ 61]Cmd: TRANSACTION UNDO
+[2022.12.01-15.55.26:472][ 61]LogEditorTransaction: Undo Scale Elements
+[2022.12.01-15.55.28:558][269]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TennisGearBP/BPTennisCourt.BPTennisCourt
+[2022.12.01-15.55.28:559][269]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.01-15.55.30:347][395]LogViewport: Scene viewport resized to 1687x979, mode Windowed.
+[2022.12.01-15.55.44:429][645]BlueprintLog: New page: Compile BPTennisCourt
+[2022.12.01-15.55.44:493][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.12.01-15.55.44:948][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TennisGearBP/BPTennisCourt" FILE="../../../../../../Users/csswi/Documents/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Content/TennisGearBP/BPTennisCourt.uasset" SILENT=true
+[2022.12.01-15.55.44:951][673]LogSavePackage: Moving output files for package: /Game/TennisGearBP/BPTennisCourt
+[2022.12.01-15.55.44:952][673]LogSavePackage: Moving '../../../../../../Users/csswi/Documents/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Saved/BPTennisCourt4560799445D77982E7F4649E9DBFDF16.tmp' to '../../../../../../Users/csswi/Documents/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Content/TennisGearBP/BPTennisCourt.uasset'
+[2022.12.01-15.55.44:970][673]AssetCheck: New page: Asset Save: BPTennisCourt
+[2022.12.01-15.55.44:970][673]LogContentValidation: Display: Validating Blueprint /Game/TennisGearBP/BPTennisCourt.BPTennisCourt
+[2022.12.01-15.55.45:662][732]LogSlate: Window 'BPTennisCourt' being destroyed
+[2022.12.01-15.55.45:672][732]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.12.01-15.55.45:672][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.01-15.55.47:292][914]Cmd: DELETE
+[2022.12.01-15.55.47:292][914]Cmd: ACTOR DELETE
+[2022.12.01-15.55.47:294][914]LogEditorActor: Deleted Actor: BPTennisCourt_C
+[2022.12.01-15.55.47:316][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.12.01-15.55.47:319][914]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2022.12.01-15.55.49:768][198]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TennisGearBP/BPTennisCourt.BPTennisCourt_C
+[2022.12.01-15.55.49:768][198]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TennisGearBP/BPTennisCourt.BPTennisCourt_C
+[2022.12.01-15.55.49:769][198]LogActorFactory: Actor Factory spawned Blueprint /Game/TennisGearBP/BPTennisCourt.BPTennisCourt as actor: BPTennisCourt_C /Game/Levels/FirstLevel.FirstLevel:PersistentLevel.BPTennisCourt_C_2
+[2022.12.01-15.55.49:770][198]LogActorFactory: Actor Factory spawned Blueprint /Game/TennisGearBP/BPTennisCourt.BPTennisCourt as actor: BPTennisCourt_C /Game/Levels/FirstLevel.FirstLevel:PersistentLevel.BPTennisCourt_C_2
+[2022.12.01-15.55.49:928][205]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TennisGearBP/BPTennisCourt.BPTennisCourt_C
+[2022.12.01-15.55.49:929][205]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TennisGearBP/BPTennisCourt.BPTennisCourt_C
+[2022.12.01-15.55.49:929][205]LogActorFactory: Actor Factory spawned Blueprint /Game/TennisGearBP/BPTennisCourt.BPTennisCourt as actor: BPTennisCourt_C /Game/Levels/FirstLevel.FirstLevel:PersistentLevel.BPTennisCourt_C_3
+[2022.12.01-15.55.49:930][205]LogActorFactory: Actor Factory spawned Blueprint /Game/TennisGearBP/BPTennisCourt.BPTennisCourt as actor: BPTennisCourt_C /Game/Levels/FirstLevel.FirstLevel:PersistentLevel.BPTennisCourt_C_3
+[2022.12.01-15.55.51:212][344]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TennisGearBP/BPTennisCourt.BPTennisCourt_C
+[2022.12.01-15.55.51:212][344]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TennisGearBP/BPTennisCourt.BPTennisCourt_C
+[2022.12.01-15.55.51:213][344]LogActorFactory: Actor Factory spawned Blueprint /Game/TennisGearBP/BPTennisCourt.BPTennisCourt as actor: BPTennisCourt_C /Game/Levels/FirstLevel.FirstLevel:PersistentLevel.BPTennisCourt_C_4
+[2022.12.01-15.55.51:214][344]LogActorFactory: Actor Factory spawned Blueprint /Game/TennisGearBP/BPTennisCourt.BPTennisCourt as actor: BPTennisCourt_C /Game/Levels/FirstLevel.FirstLevel:PersistentLevel.BPTennisCourt_C_4
+[2022.12.01-15.55.52:702][519]Cmd: DELETE
+[2022.12.01-15.55.52:702][519]Cmd: ACTOR DELETE
+[2022.12.01-15.55.52:704][519]LogEditorActor: Deleted Actor: BPTennisCourt_C
+[2022.12.01-15.55.52:729][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.12.01-15.55.52:731][519]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2022.12.01-15.55.54:950][776]Cmd: DELETE
+[2022.12.01-15.55.54:950][776]Cmd: ACTOR DELETE
+[2022.12.01-15.55.54:951][776]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.12.01-15.55.54:971][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.12.01-15.55.54:973][776]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2022.12.01-15.55.57:179][ 30]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TennisGearBP/BPTennisCourt.BPTennisCourt_C
+[2022.12.01-15.55.57:179][ 30]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TennisGearBP/BPTennisCourt.BPTennisCourt_C
+[2022.12.01-15.55.57:180][ 30]LogActorFactory: Actor Factory spawned Blueprint /Game/TennisGearBP/BPTennisCourt.BPTennisCourt as actor: BPTennisCourt_C /Game/Levels/FirstLevel.FirstLevel:PersistentLevel.BPTennisCourt_C_5
+[2022.12.01-15.55.57:181][ 30]LogActorFactory: Actor Factory spawned Blueprint /Game/TennisGearBP/BPTennisCourt.BPTennisCourt as actor: BPTennisCourt_C /Game/Levels/FirstLevel.FirstLevel:PersistentLevel.BPTennisCourt_C_5
+[2022.12.01-15.55.57:404][ 50]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TennisGearBP/BPTennisCourt.BPTennisCourt_C
+[2022.12.01-15.55.57:404][ 50]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TennisGearBP/BPTennisCourt.BPTennisCourt_C
+[2022.12.01-15.55.57:405][ 50]LogActorFactory: Actor Factory spawned Blueprint /Game/TennisGearBP/BPTennisCourt.BPTennisCourt as actor: BPTennisCourt_C /Game/Levels/FirstLevel.FirstLevel:PersistentLevel.BPTennisCourt_C_6
+[2022.12.01-15.55.57:406][ 50]LogActorFactory: Actor Factory spawned Blueprint /Game/TennisGearBP/BPTennisCourt.BPTennisCourt as actor: BPTennisCourt_C /Game/Levels/FirstLevel.FirstLevel:PersistentLevel.BPTennisCourt_C_6
+[2022.12.01-15.56.09:123][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.12.01-15.56.09:130][420]LogSavePackage: Moving output files for package: /Game/Levels/FirstLevel
+[2022.12.01-15.56.09:131][420]LogSavePackage: Moving '../../../../../../Users/csswi/Documents/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Saved/FirstLevelB558539D4EE6E69921509E9F86F7C78D.tmp' to '../../../../../../Users/csswi/Documents/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/FirstLevel.umap'
+[2022.12.01-15.56.09:139][420]LogFileHelpers: No new changes to save!
+[2022.12.01-15.56.09:152][420]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.01-15.56.09:152][420]LogContentValidation: Display: Validating ObjectRedirector /Game/Levels/FirstLevel.Level1
+[2022.12.01-15.56.09:152][420]LogContentValidation: Display: Validating World /Game/Levels/FirstLevel.FirstLevel
+[2022.12.01-15.56.14:691][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
