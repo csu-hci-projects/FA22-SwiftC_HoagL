@@ -2522,3 +2522,31 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.03-08.42.07:191][193]AssetCheck: New page: Asset Save: multiple assets
 [2022.12.03-08.42.07:191][193]LogContentValidation: Display: Validating ObjectRedirector /Game/Levels/FirstLevel.Level1
 [2022.12.03-08.42.07:191][193]LogContentValidation: Display: Validating World /Game/Levels/FirstLevel.FirstLevel
+[2022.12.03-08.42.32:176][748]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.03-08.42.32:176][748]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.03-08.42.33:275][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.12.03-08.42.34:419][849]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.03-08.42.34:442][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.12.03-08.42.34:457][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.12.03-08.42.34:474][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.12.03-08.42.37:638][ 89]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.03-08.42.37:638][ 89]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.03-08.42.38:989][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.12.03-08.42.40:332][211]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.03-08.42.40:356][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.12.03-08.42.40:371][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.12.03-08.42.40:386][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.12.03-08.42.42:944][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel" FILE="D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/FirstLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.03-08.42.42:959][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.12.03-08.42.42:965][416]LogSavePackage: Moving output files for package: /Game/Levels/FirstLevel
+[2022.12.03-08.42.42:965][416]LogSavePackage: Moving 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Saved/FirstLevel8466E57E4463822D995900BBF28652CC.tmp' to 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/FirstLevel.umap'
+[2022.12.03-08.42.42:987][416]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.03-08.42.42:987][416]LogContentValidation: Display: Validating ObjectRedirector /Game/Levels/FirstLevel.Level1
+[2022.12.03-08.42.42:987][416]LogContentValidation: Display: Validating World /Game/Levels/FirstLevel.FirstLevel
+[2022.12.03-08.43.13:769][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel" FILE="D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/FirstLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.03-08.43.13:784][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.12.03-08.43.13:790][308]LogSavePackage: Moving output files for package: /Game/Levels/FirstLevel
+[2022.12.03-08.43.13:790][308]LogSavePackage: Moving 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Saved/FirstLevel51E6F9C44310017A85AB72ADA7CC8B7F.tmp' to 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/FirstLevel.umap'
+[2022.12.03-08.43.13:813][308]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.03-08.43.13:813][308]LogContentValidation: Display: Validating ObjectRedirector /Game/Levels/FirstLevel.Level1
+[2022.12.03-08.43.13:813][308]LogContentValidation: Display: Validating World /Game/Levels/FirstLevel.FirstLevel
