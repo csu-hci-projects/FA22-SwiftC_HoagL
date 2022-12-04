@@ -744,3 +744,238 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.04-18.49.04:465][ 99]AssetCheck: New page: Asset Save: multiple assets
 [2022.12.04-18.49.04:465][ 99]LogContentValidation: Display: Validating World /Game/Levels/FirstLevel.FirstLevel
 [2022.12.04-18.49.04:465][ 99]LogContentValidation: Display: Validating ObjectRedirector /Game/Levels/FirstLevel.Level1
+[2022.12.04-18.49.59:543][169]LogDerivedDataCache: C:/Users/csswi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.271 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.04-18.50.59:838][556]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.12.04-18.50.59:852][556]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-18.50.59:852][556]PIE: New page: PIE session: FirstLevel (Dec 4, 2022, 4:50:59 AM)
+[2022.12.04-18.50.59:855][556]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.12.04-18.50.59:855][556]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.12.04-18.50.59:855][556]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FirstLevel
+[2022.12.04-18.50.59:857][556]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002362s)
+[2022.12.04-18.50.59:857][556]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FirstLevel.FirstLevel to /Game/Levels/UEDPIE_0_FirstLevel.FirstLevel (0.002423s)
+[2022.12.04-18.50.59:857][556]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.04-18.50.59:857][556]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-18.50.59:858][556]LogAIModule: Creating AISystem for world FirstLevel
+[2022.12.04-18.50.59:858][556]LogPlayLevel: PIE: World Init took: (0.000663s)
+[2022.12.04-18.50.59:865][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.12.04-18.50.59:865][556]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.12.04-18.50.59:865][556]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-18.50.59:865][556]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-18.50.59:865][556]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-18.50.59:865][556]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-18.50.59:865][556]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.04-18.50.59:865][556]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.04-18.50.59:865][556]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.04-18.50.59:865][556]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-18.50.59:866][556]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.04-18.50.59:866][556]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.04-18.50.59:866][556]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-18.50.59:867][556]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.04-18.50.59:894][556]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX Cloud Flight S Game)
+[2022.12.04-18.50.59:894][556]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-18.50.59:894][556]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-18.50.59:894][556]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-18.50.59:895][556]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.12.04-18.50.59:895][556]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.12.04-18.50.59:896][556]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.12.04-18.50.59:896][556]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.12.04-18.50.59:896][556]LogInit: FAudioDevice initialized.
+[2022.12.04-18.50.59:896][556]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstLevel'.
+[2022.12.04-18.50.59:914][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-18.50.59:923][556]LogLoad: Game class is 'VRGameMode_C'
+[2022.12.04-18.50.59:924][556]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2022.12.04-11.50.59
+[2022.12.04-18.50.59:925][556]LogWorld: Bringing up level for play took: 0.001122
+[2022.12.04-18.50.59:926][556]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2022.12.04-18.50.59:926][556]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.04-18.50.59:945][556]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.12.04-18.50.59:947][556]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.12.04-18.50.59:948][556]Cmd: vr.PixelDensity 1.0
+[2022.12.04-18.50.59:948][556]vr.PixelDensity = "1"
+[2022.12.04-18.50.59:951][556]PIE: Server logged in
+[2022.12.04-18.50.59:952][556]PIE: Play in editor total start time 0.1 seconds.
+[2022.12.04-18.50.59:978][556]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.12.04-18.51.00:028][556]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.04-18.51.00:049][556]LogRenderer: Warning: Resizing VR buffer to 4128 by 2096
+[2022.12.04-18.51.27:504][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-18.51.27:504][777]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_FirstLevel
+[2022.12.04-18.51.27:536][777]LogSlate: Window 'TennisVrGame Preview [NetMode: Standalone]  (64-bit/SM5) OpenXR Oculus (1.78.0)' being destroyed
+[2022.12.04-18.51.27:540][777]LogWorld: UWorld::CleanupWorld for FirstLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-18.51.27:540][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-18.51.27:550][777]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-18.51.27:553][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-18.51.27:559][777]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.04-18.51.27:560][777]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.12.04-18.51.27:561][777]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.12.04-18.51.27:565][777]LogSlate: Slate User Unregistered.  User Index 8
+[2022.12.04-18.51.27:565][777]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.12.04-18.51.27:565][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.12.04-18.51.27:605][778]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2022.12.04-18.51.47:858][179]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.12.04-18.51.47:864][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-18.51.47:864][179]PIE: New page: PIE session: FirstLevel (Dec 4, 2022, 4:51:47 AM)
+[2022.12.04-18.51.47:893][179]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FirstLevel
+[2022.12.04-18.51.47:895][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002302s)
+[2022.12.04-18.51.47:895][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FirstLevel.FirstLevel to /Game/Levels/UEDPIE_0_FirstLevel.FirstLevel (0.002389s)
+[2022.12.04-18.51.47:895][179]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.04-18.51.47:895][179]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-18.51.47:896][179]LogAIModule: Creating AISystem for world FirstLevel
+[2022.12.04-18.51.47:896][179]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2022.12.04-18.51.47:903][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.12.04-18.51.47:903][179]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.12.04-18.51.47:904][179]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-18.51.47:904][179]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-18.51.47:904][179]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-18.51.47:904][179]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-18.51.47:904][179]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.04-18.51.47:904][179]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.04-18.51.47:904][179]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.04-18.51.47:904][179]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-18.51.47:904][179]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.04-18.51.47:904][179]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.04-18.51.47:904][179]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-18.51.47:906][179]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.04-18.51.47:933][179]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX Cloud Flight S Game)
+[2022.12.04-18.51.47:933][179]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-18.51.47:933][179]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-18.51.47:933][179]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-18.51.47:934][179]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.12.04-18.51.47:934][179]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.12.04-18.51.47:935][179]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.12.04-18.51.47:935][179]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.12.04-18.51.47:935][179]LogInit: FAudioDevice initialized.
+[2022.12.04-18.51.47:935][179]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstLevel'.
+[2022.12.04-18.51.47:952][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-18.51.48:090][179]LogLoad: Game class is 'VRGameMode_C'
+[2022.12.04-18.51.48:091][179]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2022.12.04-11.51.48
+[2022.12.04-18.51.48:091][179]LogWorld: Bringing up level for play took: 0.001538
+[2022.12.04-18.51.48:093][179]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2022.12.04-18.51.48:094][179]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.04-18.51.48:095][179]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.12.04-18.51.48:095][179]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.12.04-18.51.48:096][179]Cmd: vr.PixelDensity 1.0
+[2022.12.04-18.51.48:096][179]vr.PixelDensity = "1"
+[2022.12.04-18.51.48:099][179]PIE: Server logged in
+[2022.12.04-18.51.48:101][179]PIE: Play in editor total start time 0.237 seconds.
+[2022.12.04-18.51.48:105][179]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.12.04-18.51.48:153][179]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.04-18.52.10:333][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-18.52.10:333][230]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_FirstLevel
+[2022.12.04-18.52.10:356][230]LogSlate: Window 'TennisVrGame Preview [NetMode: Standalone]  (64-bit/SM5) OpenXR Oculus (1.78.0)' being destroyed
+[2022.12.04-18.52.10:359][230]LogWorld: UWorld::CleanupWorld for FirstLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-18.52.10:359][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-18.52.10:370][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-18.52.10:372][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-18.52.10:378][230]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.04-18.52.10:378][230]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.12.04-18.52.10:379][230]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.12.04-18.52.10:383][230]LogSlate: Slate User Unregistered.  User Index 8
+[2022.12.04-18.52.10:383][230]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.12.04-18.52.10:384][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.12.04-18.52.10:443][231]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.12.04-18.52.12:274][435]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.04-18.52.12:281][435]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.04-18.52.15:396][761]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TennisGearBP/BPTennisBall.BPTennisBall
+[2022.12.04-18.52.15:397][761]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-18.52.16:397][761]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.04-18.52.22:173][251]LogViewport: Scene viewport resized to 1594x981, mode Windowed.
+[2022.12.04-18.53.03:787][796]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.04-18.53.59:290][560]LogEditorTransaction: Undo Modify Component(s)
+[2022.12.04-18.54.38:790][859]BlueprintLog: New page: Compile BPTennisBall
+[2022.12.04-18.54.38:989][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.12.04-18.54.39:437][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TennisGearBP/BPTennisBall" FILE="D:/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Content/TennisGearBP/BPTennisBall.uasset" SILENT=true
+[2022.12.04-18.54.39:440][886]LogSavePackage: Moving output files for package: /Game/TennisGearBP/BPTennisBall
+[2022.12.04-18.54.39:440][886]LogSavePackage: Moving 'D:/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Saved/BPTennisBallD53702DD4583B4F6F25B08968857FB65.tmp' to 'D:/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Content/TennisGearBP/BPTennisBall.uasset'
+[2022.12.04-18.54.39:455][886]AssetCheck: New page: Asset Save: BPTennisBall
+[2022.12.04-18.54.39:455][886]LogContentValidation: Display: Validating Blueprint /Game/TennisGearBP/BPTennisBall.BPTennisBall
+[2022.12.04-18.54.40:991][ 17]LogSlate: Window 'BPTennisBall' being destroyed
+[2022.12.04-18.54.41:008][ 17]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-18.54.41:008][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-18.54.42:648][191]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.12.04-18.54.42:654][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.04-18.54.42:655][191]PIE: New page: PIE session: FirstLevel (Dec 4, 2022, 4:54:42 AM)
+[2022.12.04-18.54.42:655][191]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FirstLevel
+[2022.12.04-18.54.42:657][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002324s)
+[2022.12.04-18.54.42:657][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FirstLevel.FirstLevel to /Game/Levels/UEDPIE_0_FirstLevel.FirstLevel (0.002385s)
+[2022.12.04-18.54.42:657][191]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.04-18.54.42:657][191]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-18.54.42:657][191]LogAIModule: Creating AISystem for world FirstLevel
+[2022.12.04-18.54.42:658][191]LogPlayLevel: PIE: World Init took: (0.000647s)
+[2022.12.04-18.54.42:678][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.12.04-18.54.42:680][191]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.12.04-18.54.42:680][191]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.04-18.54.42:680][191]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.04-18.54.42:680][191]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.04-18.54.42:680][191]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.04-18.54.42:680][191]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.04-18.54.42:680][191]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.04-18.54.42:680][191]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.04-18.54.42:680][191]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.04-18.54.42:681][191]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.04-18.54.42:681][191]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.04-18.54.42:681][191]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.04-18.54.42:682][191]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.04-18.54.42:711][191]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX Cloud Flight S Game)
+[2022.12.04-18.54.42:711][191]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.04-18.54.42:711][191]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.04-18.54.42:711][191]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.04-18.54.42:712][191]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.12.04-18.54.42:712][191]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.12.04-18.54.42:713][191]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.12.04-18.54.42:713][191]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.12.04-18.54.42:713][191]LogInit: FAudioDevice initialized.
+[2022.12.04-18.54.42:713][191]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstLevel'.
+[2022.12.04-18.54.42:731][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-18.54.42:873][191]LogLoad: Game class is 'VRGameMode_C'
+[2022.12.04-18.54.42:874][191]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2022.12.04-11.54.42
+[2022.12.04-18.54.42:874][191]LogWorld: Bringing up level for play took: 0.001264
+[2022.12.04-18.54.42:875][191]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2022.12.04-18.54.42:876][191]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.04-18.54.42:877][191]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.12.04-18.54.42:878][191]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.12.04-18.54.42:878][191]Cmd: vr.PixelDensity 1.0
+[2022.12.04-18.54.42:878][191]vr.PixelDensity = "1"
+[2022.12.04-18.54.42:881][191]PIE: Server logged in
+[2022.12.04-18.54.42:883][191]PIE: Play in editor total start time 0.228 seconds.
+[2022.12.04-18.54.42:893][191]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.12.04-18.54.42:992][191]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.04-18.55.21:803][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.04-18.55.21:803][359]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_FirstLevel
+[2022.12.04-18.55.21:833][359]LogSlate: Window 'TennisVrGame Preview [NetMode: Standalone]  (64-bit/SM5) OpenXR Oculus (1.78.0)' being destroyed
+[2022.12.04-18.55.21:836][359]LogWorld: UWorld::CleanupWorld for FirstLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-18.55.21:836][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-18.55.21:844][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.04-18.55.21:847][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-18.55.21:866][359]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.04-18.55.21:866][359]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.12.04-18.55.21:867][359]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.12.04-18.55.21:871][359]LogSlate: Slate User Unregistered.  User Index 8
+[2022.12.04-18.55.21:871][359]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.12.04-18.55.21:873][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.12.04-18.55.21:917][360]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.12.04-18.56.12:473][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.12.04-18.56.12:511][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel" FILE="D:/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/FirstLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.04-18.56.12:530][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.12.04-18.56.12:537][264]LogSavePackage: Moving output files for package: /Game/Levels/FirstLevel
+[2022.12.04-18.56.12:537][264]LogSavePackage: Moving 'D:/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Saved/FirstLevel6A07E20A4C9DE5DAECBFCBB19E6B4C90.tmp' to 'D:/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/FirstLevel.umap'
+[2022.12.04-18.56.12:546][264]LogFileHelpers: Saving map 'FirstLevel' took 0.035
+[2022.12.04-18.56.12:560][264]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.04-18.56.12:560][264]LogContentValidation: Display: Validating World /Game/Levels/FirstLevel.FirstLevel
+[2022.12.04-18.56.12:560][264]LogContentValidation: Display: Validating ObjectRedirector /Game/Levels/FirstLevel.Level1
+[2022.12.04-18.56.28:140][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.12.04-18.56.28:174][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel" FILE="D:/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/FirstLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.04-18.56.28:193][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.12.04-18.56.28:201][987]LogSavePackage: Moving output files for package: /Game/Levels/FirstLevel
+[2022.12.04-18.56.28:201][987]LogSavePackage: Moving 'D:/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Saved/FirstLevel96A47C7349852F719C81388B68F48C56.tmp' to 'D:/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/FirstLevel.umap'
+[2022.12.04-18.56.28:209][987]LogFileHelpers: Saving map 'FirstLevel' took 0.036
+[2022.12.04-18.56.28:224][987]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.04-18.56.28:224][987]LogContentValidation: Display: Validating World /Game/Levels/FirstLevel.FirstLevel
+[2022.12.04-18.56.28:224][987]LogContentValidation: Display: Validating ObjectRedirector /Game/Levels/FirstLevel.Level1
+[2022.12.04-18.58.08:904][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.12.04-18.58.08:933][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel" FILE="D:/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/FirstLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.04-18.58.08:953][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.12.04-18.58.08:960][618]LogSavePackage: Moving output files for package: /Game/Levels/FirstLevel
+[2022.12.04-18.58.08:960][618]LogSavePackage: Moving 'D:/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Saved/FirstLevelBFD51FF6465458996F472C874F6E2154.tmp' to 'D:/GitHub/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/FirstLevel.umap'
+[2022.12.04-18.58.08:968][618]LogFileHelpers: Saving map 'FirstLevel' took 0.036
+[2022.12.04-18.58.08:991][618]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.04-18.58.08:991][618]LogContentValidation: Display: Validating World /Game/Levels/FirstLevel.FirstLevel
+[2022.12.04-18.58.08:991][618]LogContentValidation: Display: Validating ObjectRedirector /Game/Levels/FirstLevel.Level1
