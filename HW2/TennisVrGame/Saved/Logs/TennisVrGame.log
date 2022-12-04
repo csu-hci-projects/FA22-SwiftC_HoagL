@@ -1287,3 +1287,609 @@ Script Stack (0 frames):
 [2022.12.04-22.41.47:460][ 99]AssetCheck: New page: Asset Save: multiple assets
 [2022.12.04-22.41.47:460][ 99]LogContentValidation: Display: Validating World /Game/Levels/FirstLevel.FirstLevel
 [2022.12.04-22.41.47:460][ 99]LogContentValidation: Display: Validating ObjectRedirector /Game/Levels/FirstLevel.Level1
+[2022.12.04-22.42.29:241][166]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2022.12.04-22.42.29:241][166]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2022.12.04-22.42.52:365][728]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.04-22.42.52:365][728]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.04-22.42.53:829][893]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.04-22.42.53:829][893]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.04-22.42.54:963][  0]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.04-22.42.54:963][  0]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.04-22.42.55:049][  5]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.04-22.42.55:049][  5]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.04-22.42.56:010][113]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Models/TennisBall/M_TennisBall.M_TennisBall
+[2022.12.04-22.42.56:012][113]LogMaterial: Display: Missing cached shadermap for Preview:M_TennisBall in PCD3D_SM5, Default, SM5 (DDC key hash: 20677B7B80212D474E142BEEE4FA274F365A4831), compiling. 
+[2022.12.04-22.42.56:078][113]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-22.42.56:222][113]LogMaterial: Display: Missing cached shadermap for Preview:M_TennisBall in PCD3D_SM5, Default, SM5 (DDC key hash: 912484E8F987B4774C3BB1EB3A255F7AF6C7F225), compiling. 
+[2022.12.04-22.42.56:226][113]LogMaterial: Display: Missing cached shadermap for Preview:M_TennisBall in PCD3D_SM5, Default, SM5 (DDC key hash: EF17CAA1D11D3B67A43E171ED84B2590BE8B7A34), compiling. 
+[2022.12.04-22.42.56:228][113]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: EF402B08D69A62F9B10BB1625EF6E7435C3B233C), compiling. 
+[2022.12.04-22.42.56:247][113]MaterialEditorStats: Texture samplers: 0/16
+[2022.12.04-22.42.56:247][113]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2022.12.04-22.42.56:247][113]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-22.42.56:247][113]MaterialEditorStats: Shader Count: 0
+[2022.12.04-22.42.56:281][113]LogViewport: Scene viewport resized to 360x550, mode Windowed.
+[2022.12.04-22.42.57:066][155]LogShaderCompilers: Display: ================================================
+[2022.12.04-22.42.57:066][155]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.04-22.42.57:066][155]LogShaderCompilers: Display: Total job queries 29, among them cache hits 0 (0.00%)
+[2022.12.04-22.42.57:066][155]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.12.04-22.42.57:066][155]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.12.04-22.42.57:066][155]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.04-22.42.57:066][155]LogShaderCompilers: Display: Shaders Compiled: 23
+[2022.12.04-22.42.57:066][155]LogShaderCompilers: Display: Jobs assigned 9, completed 1 (11.11%)
+[2022.12.04-22.42.57:066][155]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.12.04-22.42.57:066][155]LogShaderCompilers: Display: Time job spent in pending queue: average 0.15 s, longest 0.65 s
+[2022.12.04-22.42.57:066][155]LogShaderCompilers: Display: Job execution time: average 0.64 s, max 0.64 s
+[2022.12.04-22.42.57:066][155]LogShaderCompilers: Display: Job life time (pending + execution): average 0.74 s, max 0.74
+[2022.12.04-22.42.57:066][155]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.74 s
+[2022.12.04-22.42.57:066][155]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.12.04-22.42.57:066][155]LogShaderCompilers: Display: Average processing rate: 1.36 jobs/sec
+[2022.12.04-22.42.57:066][155]LogShaderCompilers: Display: Effective parallelization: 0.52 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.12.04-22.42.57:066][155]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2022.12.04-22.42.57:066][155]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2022.12.04-22.42.57:066][155]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2022.12.04-22.42.57:066][155]LogShaderCompilers: Display:                                                  FHitProxyPS - 100.00% of total time (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2022.12.04-22.42.57:066][155]LogShaderCompilers: Display: ================================================
+[2022.12.04-22.42.57:993][191]MaterialEditorStats: Texture samplers: 1/16
+[2022.12.04-22.42.57:993][191]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2022.12.04-22.42.57:993][191]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-22.42.57:993][191]MaterialEditorStats: Shader Count: 3
+[2022.12.04-22.42.58:480][221]MaterialEditorStats: Texture samplers: 3/16
+[2022.12.04-22.42.58:480][221]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2022.12.04-22.42.58:480][221]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-22.42.58:480][221]MaterialEditorStats: Shader Count: 5
+[2022.12.04-22.43.00:090][331]MaterialEditorStats: Texture samplers: 5/16
+[2022.12.04-22.43.00:091][331]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2022.12.04-22.43.00:091][331]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.12.04-22.43.00:091][331]MaterialEditorStats: Shader Count: 8
+[2022.12.04-22.43.18:982][392]LogSlate: Window 'M_TennisBall' being destroyed
+[2022.12.04-22.43.18:987][392]LogSlate: Window 'M_TennisBall' being destroyed
+[2022.12.04-22.43.19:027][392]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-22.43.19:027][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-22.43.53:893][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.12.04-22.43.53:899][463]Cmd: MAP LOAD FILE="D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/VRTemplate/Maps/VRTemplateMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.04-22.43.53:899][463]LightingResults: New page: Lighting Build
+[2022.12.04-22.43.53:899][463]LoadErrors: New page: Loading map: VRTemplateMap.umap
+[2022.12.04-22.43.53:926][463]LogWorld: UWorld::CleanupWorld for FirstLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-22.43.53:926][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-22.43.53:926][463]MapCheck: New page: Map Check
+[2022.12.04-22.43.53:926][463]LightingResults: New page: Lighting Build
+[2022.12.04-22.43.53:942][463]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-22.43.53:943][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.12.04-22.43.54:057][463]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Sphere.Shape_Sphere should be resaved to improve async compilation performance.
+[2022.12.04-22.43.54:068][463]LogAudio: Display: Audio Device (ID: 1) registered with world 'VRTemplateMap'.
+[2022.12.04-22.43.54:068][463]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.04-22.43.54:068][463]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-22.43.54:068][463]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.12.04-22.43.54:091][463]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.04-22.43.54:109][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.12.04-22.43.54:117][463]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.04-22.43.54:117][463]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.089ms to complete.
+[2022.12.04-22.43.54:117][463]LogFileHelpers: Loading map 'VRTemplateMap' took 0.218
+[2022.12.04-22.43.54:117][463]LogSlate: Window 'Open Level' being destroyed
+[2022.12.04-22.43.54:252][465]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.12.04-22.44.11:712][539]Cmd: EDIT COPY
+[2022.12.04-22.44.17:592][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.12.04-22.44.17:595][211]Cmd: MAP LOAD FILE="D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/FirstLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.04-22.44.17:595][211]LightingResults: New page: Lighting Build
+[2022.12.04-22.44.17:595][211]LoadErrors: New page: Loading map: FirstLevel.umap
+[2022.12.04-22.44.17:596][211]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-22.44.17:596][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-22.44.17:596][211]MapCheck: New page: Map Check
+[2022.12.04-22.44.17:596][211]LightingResults: New page: Lighting Build
+[2022.12.04-22.44.17:612][211]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.04-22.44.17:613][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.12.04-22.44.17:617][211]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstLevel'.
+[2022.12.04-22.44.17:617][211]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.04-22.44.17:617][211]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-22.44.17:618][211]LogAIModule: Creating AISystem for world FirstLevel
+[2022.12.04-22.44.17:639][211]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.04-22.44.17:657][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.12.04-22.44.17:665][211]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.04-22.44.17:665][211]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.086ms to complete.
+[2022.12.04-22.44.17:665][211]LogFileHelpers: Loading map 'FirstLevel' took 0.070
+[2022.12.04-22.44.17:665][211]LogSlate: Window 'Open Level' being destroyed
+[2022.12.04-22.44.28:618][493]Cmd: EDIT PASTE
+[2022.12.04-22.44.28:667][494]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.44.32:549][953]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.44.34:956][239]Cmd: TRANSACTION UNDO
+[2022.12.04-22.44.34:956][239]LogEditorTransaction: Undo Move Elements
+[2022.12.04-22.44.35:028][240]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.44.51:632][169]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.44.53:591][403]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.04:905][759]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.15:194][986]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.27:383][442]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.33:411][162]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.33:470][169]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.33:487][171]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.33:504][173]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.33:520][175]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.33:545][178]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.33:579][182]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.33:596][184]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.33:611][186]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.33:629][188]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.33:653][191]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.33:678][194]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.33:695][196]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.33:712][198]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.33:737][201]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.33:762][204]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.33:787][207]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.33:804][209]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.33:829][212]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.33:913][222]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.33:929][224]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.34:355][275]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.34:371][277]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.34:430][284]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.34:555][299]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.34:587][303]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.34:663][312]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.34:688][315]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.34:746][322]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.34:779][326]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.34:813][330]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.34:830][332]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.34:846][334]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.34:922][343]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.35:071][361]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.35:908][461]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.35:924][463]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.35:941][465]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.35:957][467]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.35:975][469]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.35:991][471]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.36:007][473]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.36:024][475]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.36:041][477]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.36:058][479]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.36:082][482]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.36:099][484]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.36:116][486]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.36:133][488]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.36:149][490]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.36:166][492]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.36:182][494]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.36:208][497]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.36:224][499]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.36:240][501]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.36:908][581]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.36:924][583]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.36:949][586]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.37:007][593]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.37:032][596]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.37:433][644]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.37:450][646]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.37:467][648]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.37:483][650]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.37:500][652]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.37:516][654]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.37:533][656]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.37:549][658]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.37:566][660]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.37:591][663]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.38:091][723]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.38:133][728]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.38:174][733]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.38:207][737]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.38:899][820]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.38:916][822]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.38:933][824]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.38:950][826]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.39:307][869]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.39:474][889]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.40:653][ 30]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.40:670][ 32]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.40:686][ 34]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.40:703][ 36]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.40:720][ 38]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.40:745][ 41]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.40:961][ 67]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.40:979][ 69]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.40:995][ 71]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:011][ 73]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:037][ 76]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:054][ 78]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:070][ 80]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:087][ 82]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:103][ 84]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:129][ 87]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:145][ 89]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:163][ 91]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:179][ 93]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:196][ 95]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:212][ 97]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:229][ 99]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:246][101]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:262][103]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:279][105]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:296][107]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:312][109]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:362][115]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:388][118]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:471][128]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:488][130]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:504][132]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:529][135]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:546][137]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:563][139]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:579][141]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:595][143]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:612][145]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:629][147]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:646][149]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:662][151]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:679][153]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:695][155]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:712][157]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:737][160]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:762][163]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:779][165]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:804][168]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:828][171]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:854][174]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:871][176]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:887][178]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:904][180]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:929][183]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:946][185]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:962][187]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:979][189]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.41:996][191]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:012][193]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:028][195]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:046][197]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:063][199]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:079][201]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:095][203]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:112][205]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:128][207]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:146][209]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:162][211]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:178][213]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:195][215]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:221][218]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:237][220]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:253][222]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:270][224]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:295][227]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:321][230]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:354][234]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:470][248]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:495][251]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:520][254]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:537][256]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:554][258]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:570][260]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:587][262]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:604][264]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:620][266]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:638][268]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:654][270]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:671][272]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:688][274]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:704][276]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:729][279]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:745][281]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:762][283]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:779][285]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:796][287]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:812][289]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:829][291]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:846][293]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:863][295]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:879][297]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:896][299]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:915][301]LogPhysics: Warning: Initialising Body : Body is mirrored but bGenerateMirroredCollision == false: Component: '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.NavMeshBoundsVolume_0.BrushComponent0' 
+[2022.12.04-22.45.42:922][302]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:938][304]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:955][306]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:971][308]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.42:988][310]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.43:004][312]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.43:021][314]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.43:480][369]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.43:513][373]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.43:588][382]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.43:604][384]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.43:621][386]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.43:638][388]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.43:654][390]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.43:671][392]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.43:688][394]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.43:706][396]LogPhysics: Warning: Initialising Body : Body is not mirrored but bGenerateNonMirroredCollision == false: Component: '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.NavMeshBoundsVolume_0.BrushComponent0' 
+[2022.12.04-22.45.43:713][397]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.43:730][399]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.43:746][401]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.43:762][403]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.43:780][405]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.43:796][407]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.43:813][409]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.43:829][411]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.43:846][413]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.43:863][415]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.43:880][417]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.43:896][419]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.43:913][421]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.43:929][423]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.43:946][425]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.43:963][427]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.43:979][429]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.43:996][431]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:013][433]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:030][435]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:046][437]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:063][439]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:080][441]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:096][443]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:113][445]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:130][447]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:146][449]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:163][451]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:180][453]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:196][455]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:213][457]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:230][459]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:246][461]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:263][463]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:279][465]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:305][468]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:321][470]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:338][472]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:355][474]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:371][476]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:388][478]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:405][480]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:422][482]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:438][484]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:455][486]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:472][488]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:488][490]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:513][493]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:530][495]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:546][497]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:564][499]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:580][501]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:596][503]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:613][505]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:630][507]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:647][509]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:663][511]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:680][513]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:696][515]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:713][517]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:729][519]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:746][521]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:763][523]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:780][525]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:796][527]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:813][529]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:830][531]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:847][533]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:863][535]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:879][537]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:905][540]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:921][542]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:938][544]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:955][546]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:971][548]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.44:988][550]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:005][552]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:021][554]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:038][556]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:054][558]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:072][560]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:088][562]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:113][565]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:130][567]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:147][569]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:163][571]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:180][573]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:197][575]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:213][577]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:230][579]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:246][581]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:263][583]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:279][585]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:296][587]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:313][589]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:329][591]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:347][593]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:363][595]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:380][597]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:397][599]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:413][601]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:430][603]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:447][605]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:463][607]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:480][609]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:497][611]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:513][613]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:530][615]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:546][617]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:879][657]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.45:955][666]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.47:007][791]Cmd: TRANSACTION UNDO
+[2022.12.04-22.45.47:007][791]LogEditorTransaction: Undo Set Scale
+[2022.12.04-22.45.47:064][792]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.47:414][799]Cmd: TRANSACTION UNDO
+[2022.12.04-22.45.47:414][799]LogEditorTransaction: Undo Set Scale
+[2022.12.04-22.45.47:469][800]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.45.56:812][906]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.00:722][372]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.12:282][748]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.15:833][173]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.17:434][363]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.17:484][369]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.17:500][371]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.17:517][373]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.17:534][375]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.17:559][378]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.17:601][383]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.17:693][394]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.17:710][396]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.17:726][398]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.17:793][406]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.17:868][415]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.17:892][418]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.17:968][427]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.17:985][429]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.18:151][449]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.18:169][451]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.18:194][454]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.18:236][459]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.18:253][461]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.18:277][464]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.18:319][469]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.18:353][473]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.18:370][475]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.18:386][477]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.18:403][479]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.18:420][481]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.18:436][483]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.18:453][485]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.18:470][487]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.18:486][489]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.18:503][491]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.18:528][494]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.18:553][497]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.18:569][499]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.18:586][501]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.18:628][506]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.18:736][519]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.18:753][521]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.18:770][523]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.18:786][525]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.18:878][536]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.19:386][597]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.19:403][599]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.19:420][601]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.19:436][603]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.19:453][605]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.19:469][607]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.19:486][609]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.19:511][612]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.19:527][614]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.19:553][617]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.19:570][619]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.19:595][622]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.19:611][624]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.19:636][627]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.19:670][631]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.19:686][633]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.19:761][642]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.19:778][644]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.19:794][646]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.19:811][648]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.19:828][650]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.19:853][653]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.19:870][655]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.19:886][657]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.19:903][659]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.19:920][661]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.19:936][663]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.19:953][665]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.19:970][667]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.19:986][669]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.20:003][671]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.20:020][673]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.20:036][675]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.20:053][677]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.20:077][680]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.20:103][683]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.20:119][685]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.20:136][687]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.20:153][689]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.20:352][713]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.20:478][728]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.20:503][731]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.20:536][735]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.20:553][737]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.20:594][742]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.20:627][746]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.20:661][750]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.20:686][753]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.20:703][755]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.20:736][759]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.20:761][762]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.20:794][766]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.20:828][770]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.20:877][776]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.20:919][781]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.20:945][784]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.21:286][825]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.21:303][827]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.21:320][829]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.21:345][832]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.21:370][835]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.21:387][837]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.21:411][840]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.21:437][843]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.21:461][846]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.21:503][851]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.21:804][887]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.42:352][299]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.48:274][  3]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.52:864][542]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.52:881][544]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.52:947][552]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.52:964][554]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.53:006][559]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.53:039][563]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.53:080][568]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.53:113][572]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.53:131][574]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.53:155][577]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.53:223][585]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.53:790][653]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.53:805][655]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.54:122][693]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.54:139][695]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.54:155][697]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.54:181][700]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.54:205][703]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.54:248][708]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.54:272][711]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.54:330][718]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.46.54:449][732]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.47.07:096][229]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.47.08:901][435]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.47.09:419][497]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.47.09:477][504]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.47.09:527][510]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.47.09:586][517]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.47.09:603][519]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.47.09:636][523]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.47.09:786][541]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.47.09:803][543]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.47.09:819][545]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.47.09:960][562]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.47.10:103][579]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.47.10:127][582]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.47.10:411][616]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.47.10:436][619]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.47.10:494][626]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.47.10:519][629]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.47.10:553][633]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.47.10:669][647]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.47.10:877][672]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.47.10:895][674]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.47.10:911][676]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.47.10:936][679]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.47.11:153][705]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.47.16:409][332]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/FirstLevel.
+[2022.12.04-22.47.18:527][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel" FILE="D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/FirstLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.04-22.47.18:543][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.12.04-22.47.18:556][579]LogSavePackage: Moving output files for package: /Game/Levels/FirstLevel
+[2022.12.04-22.47.18:556][579]LogSavePackage: Moving 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Saved/FirstLevel2A1F35EB488972764C78B8A70173792B.tmp' to 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/FirstLevel.umap'
+[2022.12.04-22.47.18:578][579]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.04-22.47.18:578][579]LogContentValidation: Display: Validating ObjectRedirector /Game/Levels/FirstLevel.Level1
+[2022.12.04-22.47.18:578][579]LogContentValidation: Display: Validating World /Game/Levels/FirstLevel.FirstLevel
+[2022.12.04-22.48.24:515][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel" FILE="D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/FirstLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.04-22.48.24:531][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.12.04-22.48.24:541][407]LogSavePackage: Moving output files for package: /Game/Levels/FirstLevel
+[2022.12.04-22.48.24:541][407]LogSavePackage: Moving 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Saved/FirstLevel027F8DF94DABD8B920095180DF0A2C03.tmp' to 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/FirstLevel.umap'
+[2022.12.04-22.48.24:561][407]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.04-22.48.24:561][407]LogContentValidation: Display: Validating ObjectRedirector /Game/Levels/FirstLevel.Level1
+[2022.12.04-22.48.24:561][407]LogContentValidation: Display: Validating World /Game/Levels/FirstLevel.FirstLevel
