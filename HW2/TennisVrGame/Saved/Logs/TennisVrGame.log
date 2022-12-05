@@ -7639,3 +7639,815 @@ Script Stack (0 frames):
 [2022.12.05-03.58.48:601][473]LogFileHelpers: No new changes to save!
 [2022.12.05-03.58.48:615][473]AssetCheck: New page: Asset Save: GameMenu
 [2022.12.05-03.58.48:615][473]LogContentValidation: Display: Validating World /Game/Levels/GameMenu.GameMenu
+[2022.12.05-03.59.34:391][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GameMenu" FILE="D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/GameMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.05-03.59.34:410][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.12.05-03.59.34:417][751]LogSavePackage: Moving output files for package: /Game/Levels/GameMenu
+[2022.12.05-03.59.34:417][751]LogSavePackage: Moving 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Saved/GameMenu29572D844DB26654413153B6A8C866DE.tmp' to 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/GameMenu.umap'
+[2022.12.05-03.59.34:426][751]LogFileHelpers: No new changes to save!
+[2022.12.05-03.59.34:439][751]AssetCheck: New page: Asset Save: GameMenu
+[2022.12.05-03.59.34:439][751]LogContentValidation: Display: Validating World /Game/Levels/GameMenu.GameMenu
+[2022.12.05-03.59.35:598][885]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.12.05-03.59.35:604][885]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-03.59.35:604][885]PIE: New page: PIE session: GameMenu (Dec 4, 2022, 1:59:35 PM)
+[2022.12.05-03.59.35:604][885]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameMenu
+[2022.12.05-03.59.35:605][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001537s)
+[2022.12.05-03.59.35:605][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameMenu.GameMenu to /Game/Levels/UEDPIE_0_GameMenu.GameMenu (0.001591s)
+[2022.12.05-03.59.35:605][885]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.05-03.59.35:605][885]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-03.59.35:606][885]LogAIModule: Creating AISystem for world GameMenu
+[2022.12.05-03.59.35:607][885]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2022.12.05-03.59.35:624][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.12.05-03.59.35:626][885]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.12.05-03.59.35:626][885]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-03.59.35:626][885]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-03.59.35:626][885]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-03.59.35:626][885]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-03.59.35:626][885]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.05-03.59.35:626][885]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.05-03.59.35:626][885]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.05-03.59.35:626][885]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-03.59.35:626][885]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.05-03.59.35:626][885]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.05-03.59.35:626][885]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-03.59.35:628][885]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.05-03.59.35:641][885]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2022.12.05-03.59.35:641][885]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-03.59.35:641][885]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-03.59.35:641][885]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-03.59.35:642][885]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2022.12.05-03.59.35:642][885]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2022.12.05-03.59.35:643][885]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2022.12.05-03.59.35:643][885]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2022.12.05-03.59.35:643][885]LogInit: FAudioDevice initialized.
+[2022.12.05-03.59.35:643][885]LogAudio: Display: Audio Device (ID: 20) registered with world 'GameMenu'.
+[2022.12.05-03.59.35:657][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-03.59.35:796][885]LogLoad: Game class is 'VRGameMode_C'
+[2022.12.05-03.59.35:798][885]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameMenu.GameMenu up for play (max tick rate 0) at 2022.12.04-20.59.35
+[2022.12.05-03.59.35:798][885]LogWorld: Bringing up level for play took: 0.001938
+[2022.12.05-03.59.35:800][885]LogOnline: OSS: Created online subsystem instance for: :Context_110
+[2022.12.05-03.59.35:800][885]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.05-03.59.35:801][885]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.12.05-03.59.35:803][885]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.12.05-03.59.35:803][885]Cmd: vr.PixelDensity 1.0
+[2022.12.05-03.59.35:803][885]vr.PixelDensity = "1"
+[2022.12.05-03.59.35:807][885]PIE: Server logged in
+[2022.12.05-03.59.35:809][885]PIE: Play in editor total start time 0.205 seconds.
+[2022.12.05-03.59.35:852][885]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.12.05-03.59.35:882][885]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.05-03.59.39:253][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-03.59.39:253][266]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GameMenu
+[2022.12.05-03.59.39:304][266]LogSlate: Window 'TennisVrGame Preview [NetMode: Standalone]  (64-bit/SM5) OpenXR Oculus (1.79.0)' being destroyed
+[2022.12.05-03.59.39:307][266]LogWorld: UWorld::CleanupWorld for GameMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-03.59.39:308][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-03.59.39:318][266]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-03.59.39:323][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-03.59.39:340][266]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.05-03.59.39:340][266]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2022.12.05-03.59.39:341][266]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2022.12.05-03.59.39:354][266]LogSlate: Slate User Unregistered.  User Index 8
+[2022.12.05-03.59.39:354][266]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.12.05-03.59.39:356][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.12.05-03.59.39:408][267]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2022.12.05-04.00.11:155][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GameMenu" FILE="D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/GameMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.05-04.00.11:173][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.12.05-04.00.11:182][ 12]LogSavePackage: Moving output files for package: /Game/Levels/GameMenu
+[2022.12.05-04.00.11:182][ 12]LogSavePackage: Moving 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Saved/GameMenu5E6DF5A747A47198A05BBEA0BF3A7A1E.tmp' to 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/GameMenu.umap'
+[2022.12.05-04.00.11:191][ 12]LogFileHelpers: No new changes to save!
+[2022.12.05-04.00.11:205][ 12]AssetCheck: New page: Asset Save: GameMenu
+[2022.12.05-04.00.11:205][ 12]LogContentValidation: Display: Validating World /Game/Levels/GameMenu.GameMenu
+[2022.12.05-04.00.12:070][110]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.12.05-04.00.12:076][110]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-04.00.12:076][110]PIE: New page: PIE session: GameMenu (Dec 4, 2022, 2:00:12 PM)
+[2022.12.05-04.00.12:076][110]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameMenu
+[2022.12.05-04.00.12:077][110]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001625s)
+[2022.12.05-04.00.12:077][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameMenu.GameMenu to /Game/Levels/UEDPIE_0_GameMenu.GameMenu (0.001678s)
+[2022.12.05-04.00.12:077][110]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.05-04.00.12:077][110]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-04.00.12:078][110]LogAIModule: Creating AISystem for world GameMenu
+[2022.12.05-04.00.12:078][110]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2022.12.05-04.00.12:096][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.12.05-04.00.12:097][110]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.12.05-04.00.12:097][110]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-04.00.12:097][110]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-04.00.12:097][110]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-04.00.12:097][110]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-04.00.12:097][110]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.05-04.00.12:097][110]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.05-04.00.12:097][110]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.05-04.00.12:097][110]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-04.00.12:098][110]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.05-04.00.12:098][110]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.05-04.00.12:098][110]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-04.00.12:100][110]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.05-04.00.12:113][110]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2022.12.05-04.00.12:113][110]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-04.00.12:113][110]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-04.00.12:113][110]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-04.00.12:114][110]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2022.12.05-04.00.12:114][110]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2022.12.05-04.00.12:115][110]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2022.12.05-04.00.12:115][110]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2022.12.05-04.00.12:115][110]LogInit: FAudioDevice initialized.
+[2022.12.05-04.00.12:115][110]LogAudio: Display: Audio Device (ID: 21) registered with world 'GameMenu'.
+[2022.12.05-04.00.12:126][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.00.12:243][110]LogLoad: Game class is 'VRGameMode_C'
+[2022.12.05-04.00.12:245][110]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameMenu.GameMenu up for play (max tick rate 0) at 2022.12.04-21.00.12
+[2022.12.05-04.00.12:245][110]LogWorld: Bringing up level for play took: 0.000949
+[2022.12.05-04.00.12:247][110]LogOnline: OSS: Created online subsystem instance for: :Context_111
+[2022.12.05-04.00.12:247][110]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.05-04.00.12:247][110]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.12.05-04.00.12:249][110]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.12.05-04.00.12:250][110]Cmd: vr.PixelDensity 1.0
+[2022.12.05-04.00.12:250][110]vr.PixelDensity = "1"
+[2022.12.05-04.00.12:253][110]PIE: Server logged in
+[2022.12.05-04.00.12:255][110]PIE: Play in editor total start time 0.18 seconds.
+[2022.12.05-04.00.12:265][110]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.12.05-04.00.12:300][110]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.05-04.00.29:822][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.00.29:823][479]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GameMenu
+[2022.12.05-04.00.29:868][479]LogSlate: Window 'TennisVrGame Preview [NetMode: Standalone]  (64-bit/SM5) OpenXR Oculus (1.79.0)' being destroyed
+[2022.12.05-04.00.29:870][479]LogWorld: UWorld::CleanupWorld for GameMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-04.00.29:870][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.00.29:878][479]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-04.00.29:882][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.00.29:899][479]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.05-04.00.29:899][479]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2022.12.05-04.00.29:901][479]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2022.12.05-04.00.29:905][479]LogSlate: Slate User Unregistered.  User Index 8
+[2022.12.05-04.00.29:905][479]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.12.05-04.00.29:906][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.12.05-04.00.29:930][480]LogPlayLevel: Display: Destroying online subsystem :Context_111
+[2022.12.05-04.00.51:943][ 41]Cmd: TRANSACTION UNDO
+[2022.12.05-04.00.51:943][ 41]LogEditorTransaction: Undo Set Location
+[2022.12.05-04.01.22:687][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GameMenu" FILE="D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/GameMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.05-04.01.22:705][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.12.05-04.01.22:713][581]LogSavePackage: Moving output files for package: /Game/Levels/GameMenu
+[2022.12.05-04.01.22:714][581]LogSavePackage: Moving 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Saved/GameMenuB69A9F814C3AA5CE7CB1F3977716B299.tmp' to 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/GameMenu.umap'
+[2022.12.05-04.01.22:723][581]LogFileHelpers: No new changes to save!
+[2022.12.05-04.01.22:737][581]AssetCheck: New page: Asset Save: GameMenu
+[2022.12.05-04.01.22:737][581]LogContentValidation: Display: Validating World /Game/Levels/GameMenu.GameMenu
+[2022.12.05-04.01.23:737][694]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.12.05-04.01.23:742][694]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-04.01.23:742][694]PIE: New page: PIE session: GameMenu (Dec 4, 2022, 2:01:23 PM)
+[2022.12.05-04.01.23:742][694]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameMenu
+[2022.12.05-04.01.23:744][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001784s)
+[2022.12.05-04.01.23:744][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameMenu.GameMenu to /Game/Levels/UEDPIE_0_GameMenu.GameMenu (0.001840s)
+[2022.12.05-04.01.23:744][694]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.05-04.01.23:744][694]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-04.01.23:745][694]LogAIModule: Creating AISystem for world GameMenu
+[2022.12.05-04.01.23:745][694]LogPlayLevel: PIE: World Init took: (0.000690s)
+[2022.12.05-04.01.23:761][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.12.05-04.01.23:763][694]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.12.05-04.01.23:763][694]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-04.01.23:763][694]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-04.01.23:763][694]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-04.01.23:763][694]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-04.01.23:763][694]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.05-04.01.23:763][694]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.05-04.01.23:763][694]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.05-04.01.23:763][694]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-04.01.23:763][694]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.05-04.01.23:763][694]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.05-04.01.23:763][694]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-04.01.23:765][694]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.05-04.01.23:777][694]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2022.12.05-04.01.23:778][694]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-04.01.23:778][694]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-04.01.23:778][694]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-04.01.23:778][694]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2022.12.05-04.01.23:778][694]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2022.12.05-04.01.23:779][694]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2022.12.05-04.01.23:779][694]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2022.12.05-04.01.23:779][694]LogInit: FAudioDevice initialized.
+[2022.12.05-04.01.23:779][694]LogAudio: Display: Audio Device (ID: 22) registered with world 'GameMenu'.
+[2022.12.05-04.01.23:794][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.01.23:910][694]LogLoad: Game class is 'VRGameMode_C'
+[2022.12.05-04.01.23:911][694]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameMenu.GameMenu up for play (max tick rate 0) at 2022.12.04-21.01.23
+[2022.12.05-04.01.23:911][694]LogWorld: Bringing up level for play took: 0.000730
+[2022.12.05-04.01.23:912][694]LogOnline: OSS: Created online subsystem instance for: :Context_112
+[2022.12.05-04.01.23:913][694]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.05-04.01.23:914][694]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.12.05-04.01.23:915][694]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.12.05-04.01.23:916][694]Cmd: vr.PixelDensity 1.0
+[2022.12.05-04.01.23:916][694]vr.PixelDensity = "1"
+[2022.12.05-04.01.23:919][694]PIE: Server logged in
+[2022.12.05-04.01.23:921][694]PIE: Play in editor total start time 0.179 seconds.
+[2022.12.05-04.01.23:932][694]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.12.05-04.01.23:964][694]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.05-04.01.33:524][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.01.33:524][517]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GameMenu
+[2022.12.05-04.01.33:564][517]LogSlate: Window 'TennisVrGame Preview [NetMode: Standalone]  (64-bit/SM5) OpenXR Oculus (1.79.0)' being destroyed
+[2022.12.05-04.01.33:566][517]LogWorld: UWorld::CleanupWorld for GameMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-04.01.33:567][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.01.33:577][517]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-04.01.33:580][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.01.33:597][517]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.05-04.01.33:597][517]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2022.12.05-04.01.33:599][517]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2022.12.05-04.01.33:604][517]LogSlate: Slate User Unregistered.  User Index 8
+[2022.12.05-04.01.33:604][517]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.12.05-04.01.33:605][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.12.05-04.01.33:633][518]LogPlayLevel: Display: Destroying online subsystem :Context_112
+[2022.12.05-04.01.43:097][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GameMenu" FILE="D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/GameMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.05-04.01.43:115][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.12.05-04.01.43:123][629]LogSavePackage: Moving output files for package: /Game/Levels/GameMenu
+[2022.12.05-04.01.43:123][629]LogSavePackage: Moving 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Saved/GameMenuC6E255BB436C593A6FCA2FB76FF23C2B.tmp' to 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/GameMenu.umap'
+[2022.12.05-04.01.43:132][629]LogFileHelpers: No new changes to save!
+[2022.12.05-04.01.43:144][629]AssetCheck: New page: Asset Save: GameMenu
+[2022.12.05-04.01.43:144][629]LogContentValidation: Display: Validating World /Game/Levels/GameMenu.GameMenu
+[2022.12.05-04.01.44:206][747]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.12.05-04.01.44:212][747]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-04.01.44:213][747]PIE: New page: PIE session: GameMenu (Dec 4, 2022, 2:01:44 PM)
+[2022.12.05-04.01.44:213][747]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameMenu
+[2022.12.05-04.01.44:215][747]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001601s)
+[2022.12.05-04.01.44:215][747]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameMenu.GameMenu to /Game/Levels/UEDPIE_0_GameMenu.GameMenu (0.001673s)
+[2022.12.05-04.01.44:215][747]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.05-04.01.44:215][747]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-04.01.44:215][747]LogAIModule: Creating AISystem for world GameMenu
+[2022.12.05-04.01.44:215][747]LogPlayLevel: PIE: World Init took: (0.000661s)
+[2022.12.05-04.01.44:233][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.12.05-04.01.44:234][747]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2022.12.05-04.01.44:234][747]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-04.01.44:234][747]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-04.01.44:234][747]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-04.01.44:234][747]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-04.01.44:234][747]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.05-04.01.44:234][747]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.05-04.01.44:234][747]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.05-04.01.44:234][747]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-04.01.44:235][747]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.05-04.01.44:235][747]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.05-04.01.44:235][747]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-04.01.44:237][747]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.05-04.01.44:249][747]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2022.12.05-04.01.44:249][747]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-04.01.44:249][747]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-04.01.44:249][747]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-04.01.44:250][747]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2022.12.05-04.01.44:250][747]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2022.12.05-04.01.44:251][747]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2022.12.05-04.01.44:251][747]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2022.12.05-04.01.44:251][747]LogInit: FAudioDevice initialized.
+[2022.12.05-04.01.44:251][747]LogAudio: Display: Audio Device (ID: 23) registered with world 'GameMenu'.
+[2022.12.05-04.01.44:265][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.01.44:387][747]LogLoad: Game class is 'VRGameMode_C'
+[2022.12.05-04.01.44:388][747]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameMenu.GameMenu up for play (max tick rate 0) at 2022.12.04-21.01.44
+[2022.12.05-04.01.44:388][747]LogWorld: Bringing up level for play took: 0.000702
+[2022.12.05-04.01.44:390][747]LogOnline: OSS: Created online subsystem instance for: :Context_113
+[2022.12.05-04.01.44:391][747]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.05-04.01.44:392][747]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.12.05-04.01.44:392][747]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.12.05-04.01.44:393][747]Cmd: vr.PixelDensity 1.0
+[2022.12.05-04.01.44:393][747]vr.PixelDensity = "1"
+[2022.12.05-04.01.44:398][747]PIE: Server logged in
+[2022.12.05-04.01.44:399][747]PIE: Play in editor total start time 0.186 seconds.
+[2022.12.05-04.01.44:408][747]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.12.05-04.01.44:440][747]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.05-04.01.57:471][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.01.57:471][747]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GameMenu
+[2022.12.05-04.01.57:509][747]LogSlate: Window 'TennisVrGame Preview [NetMode: Standalone]  (64-bit/SM5) OpenXR Oculus (1.79.0)' being destroyed
+[2022.12.05-04.01.57:511][747]LogWorld: UWorld::CleanupWorld for GameMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-04.01.57:512][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.01.57:524][747]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-04.01.57:527][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.01.57:544][747]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.05-04.01.57:545][747]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2022.12.05-04.01.57:546][747]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2022.12.05-04.01.57:550][747]LogSlate: Slate User Unregistered.  User Index 8
+[2022.12.05-04.01.57:550][747]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.12.05-04.01.57:551][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.12.05-04.01.57:576][748]LogPlayLevel: Display: Destroying online subsystem :Context_113
+[2022.12.05-04.02.07:473][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GameMenu" FILE="D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/GameMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.05-04.02.07:490][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.12.05-04.02.07:497][917]LogSavePackage: Moving output files for package: /Game/Levels/GameMenu
+[2022.12.05-04.02.07:498][917]LogSavePackage: Moving 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Saved/GameMenu9F81C47047D959FF5A10F5B9460F03B1.tmp' to 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/GameMenu.umap'
+[2022.12.05-04.02.07:506][917]LogFileHelpers: No new changes to save!
+[2022.12.05-04.02.07:520][917]AssetCheck: New page: Asset Save: GameMenu
+[2022.12.05-04.02.07:520][917]LogContentValidation: Display: Validating World /Game/Levels/GameMenu.GameMenu
+[2022.12.05-04.02.27:125][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GameMenu" FILE="D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/GameMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.05-04.02.27:143][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.12.05-04.02.27:150][198]LogSavePackage: Moving output files for package: /Game/Levels/GameMenu
+[2022.12.05-04.02.27:151][198]LogSavePackage: Moving 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Saved/GameMenu64596DAE4197522B8B253A806CB733FA.tmp' to 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/GameMenu.umap'
+[2022.12.05-04.02.27:161][198]LogFileHelpers: No new changes to save!
+[2022.12.05-04.02.27:174][198]AssetCheck: New page: Asset Save: GameMenu
+[2022.12.05-04.02.27:174][198]LogContentValidation: Display: Validating World /Game/Levels/GameMenu.GameMenu
+[2022.12.05-04.02.28:298][324]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.12.05-04.02.28:303][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-04.02.28:303][324]PIE: New page: PIE session: GameMenu (Dec 4, 2022, 2:02:28 PM)
+[2022.12.05-04.02.28:307][324]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameMenu
+[2022.12.05-04.02.28:308][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001484s)
+[2022.12.05-04.02.28:308][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameMenu.GameMenu to /Game/Levels/UEDPIE_0_GameMenu.GameMenu (0.001560s)
+[2022.12.05-04.02.28:309][324]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.05-04.02.28:309][324]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-04.02.28:309][324]LogAIModule: Creating AISystem for world GameMenu
+[2022.12.05-04.02.28:309][324]LogPlayLevel: PIE: World Init took: (0.000670s)
+[2022.12.05-04.02.28:327][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.12.05-04.02.28:331][324]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.12.05-04.02.28:331][324]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-04.02.28:331][324]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-04.02.28:331][324]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-04.02.28:331][324]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-04.02.28:331][324]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.05-04.02.28:331][324]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.05-04.02.28:331][324]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.05-04.02.28:331][324]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-04.02.28:331][324]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.05-04.02.28:331][324]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.05-04.02.28:331][324]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-04.02.28:333][324]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.05-04.02.28:346][324]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2022.12.05-04.02.28:346][324]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-04.02.28:346][324]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-04.02.28:346][324]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-04.02.28:347][324]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2022.12.05-04.02.28:347][324]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2022.12.05-04.02.28:348][324]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2022.12.05-04.02.28:348][324]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2022.12.05-04.02.28:348][324]LogInit: FAudioDevice initialized.
+[2022.12.05-04.02.28:348][324]LogAudio: Display: Audio Device (ID: 24) registered with world 'GameMenu'.
+[2022.12.05-04.02.28:361][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.02.28:480][324]LogLoad: Game class is 'VRGameMode_C'
+[2022.12.05-04.02.28:482][324]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameMenu.GameMenu up for play (max tick rate 0) at 2022.12.04-21.02.28
+[2022.12.05-04.02.28:483][324]LogWorld: Bringing up level for play took: 0.002714
+[2022.12.05-04.02.28:484][324]LogOnline: OSS: Created online subsystem instance for: :Context_114
+[2022.12.05-04.02.28:484][324]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.05-04.02.28:485][324]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.12.05-04.02.28:487][324]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.12.05-04.02.28:487][324]Cmd: vr.PixelDensity 1.0
+[2022.12.05-04.02.28:487][324]vr.PixelDensity = "1"
+[2022.12.05-04.02.28:492][324]PIE: Server logged in
+[2022.12.05-04.02.28:493][324]PIE: Play in editor total start time 0.19 seconds.
+[2022.12.05-04.02.28:503][324]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.12.05-04.02.28:540][324]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.05-04.02.50:093][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.02.50:093][971]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GameMenu
+[2022.12.05-04.02.50:140][971]LogSlate: Window 'TennisVrGame Preview [NetMode: Standalone]  (64-bit/SM5) OpenXR Oculus (1.79.0)' being destroyed
+[2022.12.05-04.02.50:173][971]LogWorld: UWorld::CleanupWorld for GameMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-04.02.50:173][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.02.50:182][971]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-04.02.50:186][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.02.50:203][971]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.05-04.02.50:203][971]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2022.12.05-04.02.50:204][971]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2022.12.05-04.02.50:209][971]LogSlate: Slate User Unregistered.  User Index 8
+[2022.12.05-04.02.50:209][971]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.12.05-04.02.50:210][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.12.05-04.02.50:236][972]LogPlayLevel: Display: Destroying online subsystem :Context_114
+[2022.12.05-04.03.24:125][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GameMenu" FILE="D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/GameMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.05-04.03.24:143][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.12.05-04.03.24:151][941]LogSavePackage: Moving output files for package: /Game/Levels/GameMenu
+[2022.12.05-04.03.24:151][941]LogSavePackage: Moving 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Saved/GameMenuAA72836649CFD3BEBE9236B85C5B0620.tmp' to 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/GameMenu.umap'
+[2022.12.05-04.03.24:160][941]LogFileHelpers: No new changes to save!
+[2022.12.05-04.03.24:174][941]AssetCheck: New page: Asset Save: GameMenu
+[2022.12.05-04.03.24:174][941]LogContentValidation: Display: Validating World /Game/Levels/GameMenu.GameMenu
+[2022.12.05-04.03.25:151][ 55]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.12.05-04.03.25:156][ 55]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-04.03.25:157][ 55]PIE: New page: PIE session: GameMenu (Dec 4, 2022, 2:03:25 PM)
+[2022.12.05-04.03.25:161][ 55]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameMenu
+[2022.12.05-04.03.25:162][ 55]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001494s)
+[2022.12.05-04.03.25:162][ 55]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameMenu.GameMenu to /Game/Levels/UEDPIE_0_GameMenu.GameMenu (0.001570s)
+[2022.12.05-04.03.25:163][ 55]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.05-04.03.25:163][ 55]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-04.03.25:163][ 55]LogAIModule: Creating AISystem for world GameMenu
+[2022.12.05-04.03.25:163][ 55]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2022.12.05-04.03.25:181][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.12.05-04.03.25:187][ 55]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.12.05-04.03.25:187][ 55]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-04.03.25:187][ 55]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-04.03.25:187][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-04.03.25:187][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-04.03.25:187][ 55]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.05-04.03.25:187][ 55]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.05-04.03.25:187][ 55]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.05-04.03.25:187][ 55]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-04.03.25:187][ 55]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.05-04.03.25:187][ 55]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.05-04.03.25:187][ 55]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-04.03.25:190][ 55]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.05-04.03.25:202][ 55]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2022.12.05-04.03.25:202][ 55]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-04.03.25:202][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-04.03.25:202][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-04.03.25:203][ 55]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2022.12.05-04.03.25:203][ 55]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2022.12.05-04.03.25:204][ 55]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2022.12.05-04.03.25:204][ 55]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2022.12.05-04.03.25:204][ 55]LogInit: FAudioDevice initialized.
+[2022.12.05-04.03.25:204][ 55]LogAudio: Display: Audio Device (ID: 25) registered with world 'GameMenu'.
+[2022.12.05-04.03.25:218][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.03.25:349][ 55]LogLoad: Game class is 'VRGameMode_C'
+[2022.12.05-04.03.25:352][ 55]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameMenu.GameMenu up for play (max tick rate 0) at 2022.12.04-21.03.25
+[2022.12.05-04.03.25:352][ 55]LogWorld: Bringing up level for play took: 0.002334
+[2022.12.05-04.03.25:354][ 55]LogOnline: OSS: Created online subsystem instance for: :Context_115
+[2022.12.05-04.03.25:354][ 55]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.05-04.03.25:355][ 55]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.12.05-04.03.25:356][ 55]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.12.05-04.03.25:356][ 55]Cmd: vr.PixelDensity 1.0
+[2022.12.05-04.03.25:356][ 55]vr.PixelDensity = "1"
+[2022.12.05-04.03.25:361][ 55]PIE: Server logged in
+[2022.12.05-04.03.25:362][ 55]PIE: Play in editor total start time 0.206 seconds.
+[2022.12.05-04.03.25:404][ 55]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.12.05-04.03.25:436][ 55]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.05-04.03.50:873][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.03.50:873][976]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GameMenu
+[2022.12.05-04.03.50:920][976]LogSlate: Window 'TennisVrGame Preview [NetMode: Standalone]  (64-bit/SM5) OpenXR Oculus (1.79.0)' being destroyed
+[2022.12.05-04.03.50:924][976]LogWorld: UWorld::CleanupWorld for GameMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-04.03.50:924][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.03.50:936][976]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-04.03.50:940][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.03.50:958][976]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.05-04.03.50:958][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2022.12.05-04.03.50:960][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2022.12.05-04.03.50:964][976]LogSlate: Slate User Unregistered.  User Index 8
+[2022.12.05-04.03.50:964][976]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.12.05-04.03.50:965][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.12.05-04.03.51:007][977]LogPlayLevel: Display: Destroying online subsystem :Context_115
+[2022.12.05-04.04.00:449][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GameMenu" FILE="D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/GameMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.05-04.04.00:467][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.12.05-04.04.00:475][ 80]LogSavePackage: Moving output files for package: /Game/Levels/GameMenu
+[2022.12.05-04.04.00:476][ 80]LogSavePackage: Moving 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Saved/GameMenuCAEF057B4BC3EB8D5BCB508A4AB50BD8.tmp' to 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/GameMenu.umap'
+[2022.12.05-04.04.00:484][ 80]LogFileHelpers: No new changes to save!
+[2022.12.05-04.04.00:498][ 80]AssetCheck: New page: Asset Save: GameMenu
+[2022.12.05-04.04.00:498][ 80]LogContentValidation: Display: Validating World /Game/Levels/GameMenu.GameMenu
+[2022.12.05-04.04.12:391][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GameMenu" FILE="D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/GameMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.05-04.04.12:409][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.12.05-04.04.12:416][450]LogSavePackage: Moving output files for package: /Game/Levels/GameMenu
+[2022.12.05-04.04.12:416][450]LogSavePackage: Moving 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Saved/GameMenuD66A3F6F460C2A268C72D8BE7B646938.tmp' to 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/GameMenu.umap'
+[2022.12.05-04.04.12:424][450]LogFileHelpers: No new changes to save!
+[2022.12.05-04.04.12:439][450]AssetCheck: New page: Asset Save: GameMenu
+[2022.12.05-04.04.12:439][450]LogContentValidation: Display: Validating World /Game/Levels/GameMenu.GameMenu
+[2022.12.05-04.04.13:183][537]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.12.05-04.04.13:188][537]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-04.04.13:188][537]PIE: New page: PIE session: GameMenu (Dec 4, 2022, 2:04:13 PM)
+[2022.12.05-04.04.13:188][537]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameMenu
+[2022.12.05-04.04.13:190][537]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001650s)
+[2022.12.05-04.04.13:190][537]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameMenu.GameMenu to /Game/Levels/UEDPIE_0_GameMenu.GameMenu (0.001707s)
+[2022.12.05-04.04.13:190][537]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.05-04.04.13:190][537]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-04.04.13:190][537]LogAIModule: Creating AISystem for world GameMenu
+[2022.12.05-04.04.13:192][537]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2022.12.05-04.04.13:208][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.12.05-04.04.13:210][537]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2022.12.05-04.04.13:210][537]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-04.04.13:210][537]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-04.04.13:211][537]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-04.04.13:211][537]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-04.04.13:211][537]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.05-04.04.13:211][537]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.05-04.04.13:211][537]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.05-04.04.13:211][537]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-04.04.13:211][537]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.05-04.04.13:211][537]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.05-04.04.13:211][537]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-04.04.13:213][537]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.05-04.04.13:225][537]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2022.12.05-04.04.13:225][537]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-04.04.13:225][537]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-04.04.13:225][537]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-04.04.13:226][537]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2022.12.05-04.04.13:226][537]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2022.12.05-04.04.13:227][537]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2022.12.05-04.04.13:227][537]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2022.12.05-04.04.13:227][537]LogInit: FAudioDevice initialized.
+[2022.12.05-04.04.13:227][537]LogAudio: Display: Audio Device (ID: 26) registered with world 'GameMenu'.
+[2022.12.05-04.04.13:242][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.04.13:380][537]LogLoad: Game class is 'VRGameMode_C'
+[2022.12.05-04.04.13:382][537]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameMenu.GameMenu up for play (max tick rate 0) at 2022.12.04-21.04.13
+[2022.12.05-04.04.13:382][537]LogWorld: Bringing up level for play took: 0.001697
+[2022.12.05-04.04.13:384][537]LogOnline: OSS: Created online subsystem instance for: :Context_116
+[2022.12.05-04.04.13:384][537]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.05-04.04.13:386][537]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.12.05-04.04.13:387][537]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.12.05-04.04.13:387][537]Cmd: vr.PixelDensity 1.0
+[2022.12.05-04.04.13:387][537]vr.PixelDensity = "1"
+[2022.12.05-04.04.13:391][537]PIE: Server logged in
+[2022.12.05-04.04.13:392][537]PIE: Play in editor total start time 0.203 seconds.
+[2022.12.05-04.04.13:401][537]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.12.05-04.04.13:435][537]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.05-04.04.25:913][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.04.25:913][523]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GameMenu
+[2022.12.05-04.04.25:956][523]LogSlate: Window 'TennisVrGame Preview [NetMode: Standalone]  (64-bit/SM5) OpenXR Oculus (1.79.0)' being destroyed
+[2022.12.05-04.04.25:983][523]LogWorld: UWorld::CleanupWorld for GameMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-04.04.25:983][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.04.25:995][523]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-04.04.25:999][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.04.26:017][523]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.05-04.04.26:017][523]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2022.12.05-04.04.26:019][523]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2022.12.05-04.04.26:023][523]LogSlate: Slate User Unregistered.  User Index 8
+[2022.12.05-04.04.26:023][523]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.12.05-04.04.26:024][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.12.05-04.04.26:056][524]LogPlayLevel: Display: Destroying online subsystem :Context_116
+[2022.12.05-04.04.59:506][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GameMenu" FILE="D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/GameMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.05-04.04.59:525][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.12.05-04.04.59:533][438]LogSavePackage: Moving output files for package: /Game/Levels/GameMenu
+[2022.12.05-04.04.59:535][438]LogSavePackage: Moving 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Saved/GameMenu8C173DDC46C2781A667A699BBBDF878A.tmp' to 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/GameMenu.umap'
+[2022.12.05-04.04.59:543][438]LogFileHelpers: No new changes to save!
+[2022.12.05-04.04.59:555][438]AssetCheck: New page: Asset Save: GameMenu
+[2022.12.05-04.04.59:555][438]LogContentValidation: Display: Validating World /Game/Levels/GameMenu.GameMenu
+[2022.12.05-04.05.00:998][603]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.12.05-04.05.01:004][603]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-04.05.01:004][603]PIE: New page: PIE session: GameMenu (Dec 4, 2022, 2:05:01 PM)
+[2022.12.05-04.05.01:004][603]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameMenu
+[2022.12.05-04.05.01:006][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001461s)
+[2022.12.05-04.05.01:006][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameMenu.GameMenu to /Game/Levels/UEDPIE_0_GameMenu.GameMenu (0.001527s)
+[2022.12.05-04.05.01:006][603]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.05-04.05.01:006][603]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-04.05.01:006][603]LogAIModule: Creating AISystem for world GameMenu
+[2022.12.05-04.05.01:006][603]LogPlayLevel: PIE: World Init took: (0.000664s)
+[2022.12.05-04.05.01:023][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.12.05-04.05.01:025][603]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2022.12.05-04.05.01:025][603]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-04.05.01:025][603]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-04.05.01:025][603]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-04.05.01:025][603]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-04.05.01:025][603]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.05-04.05.01:025][603]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.05-04.05.01:025][603]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.05-04.05.01:025][603]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-04.05.01:026][603]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.05-04.05.01:026][603]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.05-04.05.01:026][603]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-04.05.01:028][603]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.05-04.05.01:040][603]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2022.12.05-04.05.01:040][603]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-04.05.01:040][603]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-04.05.01:040][603]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-04.05.01:041][603]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2022.12.05-04.05.01:041][603]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2022.12.05-04.05.01:041][603]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2022.12.05-04.05.01:042][603]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2022.12.05-04.05.01:042][603]LogInit: FAudioDevice initialized.
+[2022.12.05-04.05.01:042][603]LogAudio: Display: Audio Device (ID: 27) registered with world 'GameMenu'.
+[2022.12.05-04.05.01:057][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.05.01:179][603]LogLoad: Game class is 'VRGameMode_C'
+[2022.12.05-04.05.01:181][603]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameMenu.GameMenu up for play (max tick rate 0) at 2022.12.04-21.05.01
+[2022.12.05-04.05.01:181][603]LogWorld: Bringing up level for play took: 0.001070
+[2022.12.05-04.05.01:182][603]LogOnline: OSS: Created online subsystem instance for: :Context_117
+[2022.12.05-04.05.01:183][603]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.05-04.05.01:184][603]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.12.05-04.05.01:185][603]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.12.05-04.05.01:186][603]Cmd: vr.PixelDensity 1.0
+[2022.12.05-04.05.01:186][603]vr.PixelDensity = "1"
+[2022.12.05-04.05.01:190][603]PIE: Server logged in
+[2022.12.05-04.05.01:191][603]PIE: Play in editor total start time 0.188 seconds.
+[2022.12.05-04.05.01:234][603]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.12.05-04.05.01:264][603]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.05-04.05.10:827][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.05.10:827][382]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GameMenu
+[2022.12.05-04.05.10:867][382]LogSlate: Window 'TennisVrGame Preview [NetMode: Standalone]  (64-bit/SM5) OpenXR Oculus (1.79.0)' being destroyed
+[2022.12.05-04.05.10:893][382]LogWorld: UWorld::CleanupWorld for GameMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-04.05.10:893][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.05.10:903][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-04.05.10:907][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.05.10:924][382]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.05-04.05.10:924][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2022.12.05-04.05.10:925][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2022.12.05-04.05.10:930][382]LogSlate: Slate User Unregistered.  User Index 8
+[2022.12.05-04.05.10:930][382]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.12.05-04.05.10:931][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.12.05-04.05.10:964][383]LogPlayLevel: Display: Destroying online subsystem :Context_117
+[2022.12.05-04.05.17:228][ 88]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Docking.TabFont'. Using FTextBlockStyle defaults instead.
+[2022.12.05-04.05.17:228][ 88]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Docking.TabFont'. Using FTextBlockStyle defaults instead.
+[2022.12.05-04.05.20:529][481]LogSlate: Window 'Undo History' being destroyed
+[2022.12.05-04.05.20:537][481]LogSlate: Window 'Undo History' being destroyed
+[2022.12.05-04.05.43:418][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GameMenu" FILE="D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/GameMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.05-04.05.43:437][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.12.05-04.05.43:445][153]LogSavePackage: Moving output files for package: /Game/Levels/GameMenu
+[2022.12.05-04.05.43:445][153]LogSavePackage: Moving 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Saved/GameMenu505313BA4CE5911B0DCF1BAF1E062093.tmp' to 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/GameMenu.umap'
+[2022.12.05-04.05.43:453][153]LogFileHelpers: No new changes to save!
+[2022.12.05-04.05.43:466][153]AssetCheck: New page: Asset Save: GameMenu
+[2022.12.05-04.05.43:466][153]LogContentValidation: Display: Validating World /Game/Levels/GameMenu.GameMenu
+[2022.12.05-04.05.45:284][360]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.12.05-04.05.45:290][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-04.05.45:290][360]PIE: New page: PIE session: GameMenu (Dec 4, 2022, 2:05:45 PM)
+[2022.12.05-04.05.45:290][360]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameMenu
+[2022.12.05-04.05.45:292][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001688s)
+[2022.12.05-04.05.45:292][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameMenu.GameMenu to /Game/Levels/UEDPIE_0_GameMenu.GameMenu (0.001745s)
+[2022.12.05-04.05.45:292][360]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.05-04.05.45:292][360]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-04.05.45:293][360]LogAIModule: Creating AISystem for world GameMenu
+[2022.12.05-04.05.45:293][360]LogPlayLevel: PIE: World Init took: (0.000684s)
+[2022.12.05-04.05.45:310][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.12.05-04.05.45:312][360]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2022.12.05-04.05.45:312][360]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-04.05.45:312][360]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-04.05.45:312][360]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-04.05.45:312][360]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-04.05.45:312][360]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.05-04.05.45:312][360]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.05-04.05.45:312][360]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.05-04.05.45:312][360]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-04.05.45:312][360]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.05-04.05.45:312][360]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.05-04.05.45:312][360]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-04.05.45:314][360]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.05-04.05.45:326][360]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2022.12.05-04.05.45:327][360]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-04.05.45:327][360]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-04.05.45:327][360]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-04.05.45:327][360]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2022.12.05-04.05.45:327][360]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2022.12.05-04.05.45:328][360]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2022.12.05-04.05.45:328][360]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2022.12.05-04.05.45:328][360]LogInit: FAudioDevice initialized.
+[2022.12.05-04.05.45:328][360]LogAudio: Display: Audio Device (ID: 28) registered with world 'GameMenu'.
+[2022.12.05-04.05.45:343][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.05.45:473][360]LogLoad: Game class is 'VRGameMode_C'
+[2022.12.05-04.05.45:476][360]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameMenu.GameMenu up for play (max tick rate 0) at 2022.12.04-21.05.45
+[2022.12.05-04.05.45:476][360]LogWorld: Bringing up level for play took: 0.002319
+[2022.12.05-04.05.45:478][360]LogOnline: OSS: Created online subsystem instance for: :Context_118
+[2022.12.05-04.05.45:478][360]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.05-04.05.45:479][360]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.12.05-04.05.45:481][360]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.12.05-04.05.45:481][360]Cmd: vr.PixelDensity 1.0
+[2022.12.05-04.05.45:482][360]vr.PixelDensity = "1"
+[2022.12.05-04.05.45:486][360]PIE: Server logged in
+[2022.12.05-04.05.45:488][360]PIE: Play in editor total start time 0.198 seconds.
+[2022.12.05-04.05.45:531][360]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.12.05-04.05.45:563][360]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.05-04.05.52:684][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.05.52:684][976]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GameMenu
+[2022.12.05-04.05.52:718][976]LogSlate: Window 'TennisVrGame Preview [NetMode: Standalone]  (64-bit/SM5) OpenXR Oculus (1.79.0)' being destroyed
+[2022.12.05-04.05.52:720][976]LogWorld: UWorld::CleanupWorld for GameMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-04.05.52:720][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.05.52:733][976]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-04.05.52:736][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.05.52:753][976]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.05-04.05.52:753][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2022.12.05-04.05.52:755][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2022.12.05-04.05.52:759][976]LogSlate: Slate User Unregistered.  User Index 8
+[2022.12.05-04.05.52:759][976]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.12.05-04.05.52:760][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.12.05-04.05.52:787][977]LogPlayLevel: Display: Destroying online subsystem :Context_118
+[2022.12.05-04.06.02:735][141]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Models/Extra/MenuWall.MenuWall
+[2022.12.05-04.06.02:735][141]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-04.06.05:080][359]LogViewport: Scene viewport resized to 834x855, mode Windowed.
+[2022.12.05-04.06.54:846][779]BlueprintLog: New page: Compile MenuWall
+[2022.12.05-04.06.54:892][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.12.05-04.06.55:436][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Extra/MenuWall" FILE="D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Models/Extra/MenuWall.uasset" SILENT=true
+[2022.12.05-04.06.55:438][810]LogSavePackage: Moving output files for package: /Game/Models/Extra/MenuWall
+[2022.12.05-04.06.55:438][810]LogSavePackage: Moving 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Saved/MenuWallE3FF565442740B27048439B0A9609FDA.tmp' to 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Models/Extra/MenuWall.uasset'
+[2022.12.05-04.06.55:450][810]AssetCheck: New page: Asset Save: MenuWall
+[2022.12.05-04.06.55:450][810]LogContentValidation: Display: Validating Blueprint /Game/Models/Extra/MenuWall.MenuWall
+[2022.12.05-04.06.56:817][925]LogSlate: Window 'MenuWall' being destroyed
+[2022.12.05-04.06.56:825][925]LogSlate: Window 'MenuWall' being destroyed
+[2022.12.05-04.06.56:832][925]LogWorld: UWorld::CleanupWorld for World_104, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-04.06.56:832][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.06.58:116][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GameMenu" FILE="D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/GameMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.05-04.06.58:134][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.12.05-04.06.58:152][ 62]LogSavePackage: Moving output files for package: /Game/Levels/GameMenu
+[2022.12.05-04.06.58:152][ 62]LogSavePackage: Moving 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Saved/GameMenu93A868FA4F1D00BB53765FAC9F5DCF2E.tmp' to 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/GameMenu.umap'
+[2022.12.05-04.06.58:160][ 62]LogFileHelpers: No new changes to save!
+[2022.12.05-04.06.58:177][ 62]AssetCheck: New page: Asset Save: GameMenu
+[2022.12.05-04.06.58:177][ 62]LogContentValidation: Display: Validating World /Game/Levels/GameMenu.GameMenu
+[2022.12.05-04.06.59:332][194]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.12.05-04.06.59:337][194]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-04.06.59:337][194]PIE: New page: PIE session: GameMenu (Dec 4, 2022, 2:06:59 PM)
+[2022.12.05-04.06.59:337][194]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameMenu
+[2022.12.05-04.06.59:339][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001624s)
+[2022.12.05-04.06.59:339][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameMenu.GameMenu to /Game/Levels/UEDPIE_0_GameMenu.GameMenu (0.001680s)
+[2022.12.05-04.06.59:339][194]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.05-04.06.59:339][194]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-04.06.59:339][194]LogAIModule: Creating AISystem for world GameMenu
+[2022.12.05-04.06.59:339][194]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2022.12.05-04.06.59:358][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.12.05-04.06.59:360][194]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2022.12.05-04.06.59:360][194]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-04.06.59:360][194]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-04.06.59:360][194]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-04.06.59:360][194]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-04.06.59:360][194]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.05-04.06.59:360][194]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.05-04.06.59:360][194]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.05-04.06.59:360][194]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-04.06.59:360][194]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.05-04.06.59:360][194]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.05-04.06.59:360][194]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-04.06.59:362][194]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.05-04.06.59:374][194]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2022.12.05-04.06.59:374][194]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-04.06.59:375][194]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-04.06.59:375][194]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-04.06.59:376][194]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2022.12.05-04.06.59:376][194]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2022.12.05-04.06.59:377][194]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2022.12.05-04.06.59:377][194]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2022.12.05-04.06.59:377][194]LogInit: FAudioDevice initialized.
+[2022.12.05-04.06.59:377][194]LogAudio: Display: Audio Device (ID: 29) registered with world 'GameMenu'.
+[2022.12.05-04.06.59:390][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.06.59:505][194]LogLoad: Game class is 'VRGameMode_C'
+[2022.12.05-04.06.59:507][194]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameMenu.GameMenu up for play (max tick rate 0) at 2022.12.04-21.06.59
+[2022.12.05-04.06.59:507][194]LogWorld: Bringing up level for play took: 0.001452
+[2022.12.05-04.06.59:509][194]LogOnline: OSS: Created online subsystem instance for: :Context_120
+[2022.12.05-04.06.59:509][194]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.05-04.06.59:510][194]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.12.05-04.06.59:511][194]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.12.05-04.06.59:512][194]Cmd: vr.PixelDensity 1.0
+[2022.12.05-04.06.59:512][194]vr.PixelDensity = "1"
+[2022.12.05-04.06.59:516][194]PIE: Server logged in
+[2022.12.05-04.06.59:517][194]PIE: Play in editor total start time 0.181 seconds.
+[2022.12.05-04.06.59:561][194]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.12.05-04.06.59:595][194]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.05-04.07.11:191][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.07.11:191][122]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GameMenu
+[2022.12.05-04.07.11:222][122]LogSlate: Window 'TennisVrGame Preview [NetMode: Standalone]  (64-bit/SM5) OpenXR Oculus (1.79.0)' being destroyed
+[2022.12.05-04.07.11:224][122]LogWorld: UWorld::CleanupWorld for GameMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-04.07.11:225][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.07.11:235][122]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-04.07.11:240][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.07.11:256][122]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.05-04.07.11:257][122]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.05-04.07.11:257][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2022.12.05-04.07.11:258][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2022.12.05-04.07.11:262][122]LogSlate: Slate User Unregistered.  User Index 8
+[2022.12.05-04.07.11:262][122]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.12.05-04.07.11:263][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.12.05-04.07.11:295][123]LogPlayLevel: Display: Destroying online subsystem :Context_120
+[2022.12.05-04.07.32:722][656]Cmd: TRANSACTION UNDO
+[2022.12.05-04.07.32:722][656]LogEditorTransaction: Undo Move Elements
+[2022.12.05-04.07.46:216][160]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.05-04.07.54:027][ 94]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.05-04.07.55:442][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GameMenu" FILE="D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/GameMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.05-04.07.55:459][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.12.05-04.07.55:468][254]LogSavePackage: Moving output files for package: /Game/Levels/GameMenu
+[2022.12.05-04.07.55:468][254]LogSavePackage: Moving 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Saved/GameMenu6373773B46A98E87601A4BA218A7522A.tmp' to 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/GameMenu.umap'
+[2022.12.05-04.07.55:478][254]LogFileHelpers: No new changes to save!
+[2022.12.05-04.07.55:492][254]AssetCheck: New page: Asset Save: GameMenu
+[2022.12.05-04.07.55:492][254]LogContentValidation: Display: Validating World /Game/Levels/GameMenu.GameMenu
+[2022.12.05-04.07.56:951][422]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.12.05-04.07.56:956][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-04.07.56:957][422]PIE: New page: PIE session: GameMenu (Dec 4, 2022, 2:07:56 PM)
+[2022.12.05-04.07.56:957][422]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameMenu
+[2022.12.05-04.07.56:958][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001442s)
+[2022.12.05-04.07.56:958][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameMenu.GameMenu to /Game/Levels/UEDPIE_0_GameMenu.GameMenu (0.001494s)
+[2022.12.05-04.07.56:958][422]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.05-04.07.56:958][422]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-04.07.56:959][422]LogAIModule: Creating AISystem for world GameMenu
+[2022.12.05-04.07.56:959][422]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2022.12.05-04.07.56:976][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.12.05-04.07.56:978][422]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2022.12.05-04.07.56:978][422]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-04.07.56:978][422]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-04.07.56:978][422]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-04.07.56:978][422]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-04.07.56:978][422]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.05-04.07.56:978][422]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.05-04.07.56:978][422]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.05-04.07.56:978][422]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-04.07.56:978][422]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.05-04.07.56:978][422]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.05-04.07.56:978][422]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-04.07.56:979][422]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.05-04.07.56:992][422]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2022.12.05-04.07.56:992][422]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-04.07.56:992][422]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-04.07.56:992][422]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-04.07.56:993][422]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2022.12.05-04.07.56:993][422]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2022.12.05-04.07.56:994][422]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2022.12.05-04.07.56:994][422]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2022.12.05-04.07.56:994][422]LogInit: FAudioDevice initialized.
+[2022.12.05-04.07.56:994][422]LogAudio: Display: Audio Device (ID: 30) registered with world 'GameMenu'.
+[2022.12.05-04.07.57:009][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.07.57:132][422]LogLoad: Game class is 'VRGameMode_C'
+[2022.12.05-04.07.57:135][422]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameMenu.GameMenu up for play (max tick rate 0) at 2022.12.04-21.07.57
+[2022.12.05-04.07.57:135][422]LogWorld: Bringing up level for play took: 0.001870
+[2022.12.05-04.07.57:137][422]LogOnline: OSS: Created online subsystem instance for: :Context_121
+[2022.12.05-04.07.57:137][422]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.05-04.07.57:138][422]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.12.05-04.07.57:139][422]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.12.05-04.07.57:140][422]Cmd: vr.PixelDensity 1.0
+[2022.12.05-04.07.57:140][422]vr.PixelDensity = "1"
+[2022.12.05-04.07.57:144][422]PIE: Server logged in
+[2022.12.05-04.07.57:146][422]PIE: Play in editor total start time 0.19 seconds.
+[2022.12.05-04.07.57:190][422]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.12.05-04.07.57:220][422]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.05-04.08.05:602][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-04.08.05:602][115]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GameMenu
+[2022.12.05-04.08.05:647][115]LogSlate: Window 'TennisVrGame Preview [NetMode: Standalone]  (64-bit/SM5) OpenXR Oculus (1.79.0)' being destroyed
+[2022.12.05-04.08.05:683][115]LogWorld: UWorld::CleanupWorld for GameMenu, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-04.08.05:683][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.08.05:692][115]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-04.08.05:696][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-04.08.05:714][115]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.05-04.08.05:714][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2022.12.05-04.08.05:715][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2022.12.05-04.08.05:720][115]LogSlate: Slate User Unregistered.  User Index 8
+[2022.12.05-04.08.05:720][115]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.12.05-04.08.05:721][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.12.05-04.08.05:757][116]LogPlayLevel: Display: Destroying online subsystem :Context_121
+[2022.12.05-04.08.16:210][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GameMenu" FILE="D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/GameMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.05-04.08.16:227][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.12.05-04.08.16:235][346]LogSavePackage: Moving output files for package: /Game/Levels/GameMenu
+[2022.12.05-04.08.16:235][346]LogSavePackage: Moving 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Saved/GameMenu66B71EE5403FAB6D99D243A50F2AA3EE.tmp' to 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/GameMenu.umap'
+[2022.12.05-04.08.16:243][346]LogFileHelpers: No new changes to save!
+[2022.12.05-04.08.16:257][346]AssetCheck: New page: Asset Save: GameMenu
+[2022.12.05-04.08.16:257][346]LogContentValidation: Display: Validating World /Game/Levels/GameMenu.GameMenu
+[2022.12.05-04.08.30:223][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GameMenu" FILE="D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/GameMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.05-04.08.30:240][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.12.05-04.08.30:247][670]LogSavePackage: Moving output files for package: /Game/Levels/GameMenu
+[2022.12.05-04.08.30:248][670]LogSavePackage: Moving 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Saved/GameMenu3C393D1848FCEA97C193EC845D05032C.tmp' to 'D:/Lianna Hoag CS301H/GitHubHW1/SwiftC_HoagL/HW2/TennisVrGame/Content/Levels/GameMenu.umap'
+[2022.12.05-04.08.30:255][670]LogFileHelpers: No new changes to save!
+[2022.12.05-04.08.30:269][670]AssetCheck: New page: Asset Save: GameMenu
+[2022.12.05-04.08.30:269][670]LogContentValidation: Display: Validating World /Game/Levels/GameMenu.GameMenu
