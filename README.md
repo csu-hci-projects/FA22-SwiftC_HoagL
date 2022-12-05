@@ -1,21 +1,22 @@
 # SwiftC_HoagL
-Keys:
+Main Menu: 
+Oculus Touch (R) Trigger - clicks on button 
+Start Button takes player to FirstLevel
+Quit Button ends the game
+Options Button opens another widget where player can adjust tennisBallLauncher speed
 
-W: Move Forward
+Player Movement:
+Oculus Touch (L) Thumbstick X & Y - move forward and back
+Oculus Touch (R) Thumbstick X & Y - turn/rotate left and right
+Oculus Touch (L) Grip & (R) Grip - grab 
 
-A: Move Left
+Oculus Touch (L) Menu Button - Widget Menu
 
-S: Move Back
 
-D: Move Right
 
-SpaceBar: Jump
 
-0: Stops Ball Movement
 
-Mouse Click on Button at Start, Starts Game
 
-6: Stops the game (pauses it)
 
-7 & Mouse Click on Exit Button: Exits the game
+
 
